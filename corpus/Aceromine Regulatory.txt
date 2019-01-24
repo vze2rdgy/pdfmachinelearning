@@ -1,0 +1,25 @@
+\SKN[FICHE REGLEMENTAIRE REGULATORY DATA SHEET
+\TRN[ACROMINE\]
+\CON[Biople Clermont - Limagne 63 360 Saint - Beauzire Tel : 33 04 73 33 99 00 Fax : 33 04 73 33 91 32
+e - mail : greentech @ greentech . fr\]
+\ING[\INC[Water\] , \INC[Malpighia Punicifolia Fruit Extract\] , \INC[Alcohol\] , \INC[Glycerin\]\]
+\COM[water: 68.1%
+Malpighia Punicifolia Fruit Extract:10%
+Alcohol: 8.25%
+Glycerin : 8%
+Lecithin: 3.75%
+Guar Hydroxypropyltrimonium Chloride: 1%
+Phenoxyethanol: 0.8% 
+Benzophenone-4: 0.1%\]
+
+\RGL[COSMETIC REGULATION
+REACH: Acerola extract not concerned quantity produce per year lower than 1 ton
+\REG[USA\]: Approved for use in cosmetic with INCI CTFA name and CAS number
+\REG[CANADA\]: Approved for use in cosmetic with INCI CTFA name
+\REG[JAPAN\]: Approved for use in cosmetic with INCI CTFA name
+\REG[Australia\]: Approved for use in cosmetic with INCI CTFA name\]
+\TOX[TOXICOLOGICAL DATA
+Skin irritation: non irritant: Product tested at 10 %: Patch Test
+Eye irritation: Practically not irritant: Product tested at 10 %: Het cam CFIO Test
+Sensitization: Non sensitizating: Product tested at 10 %: Marzulli - Maibach\]\]
+

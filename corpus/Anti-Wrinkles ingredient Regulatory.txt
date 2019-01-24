@@ -1,0 +1,22 @@
+\SKIN|RGL[REGULATORY DATA SHEET
+\TRN[COMPLEX ANTI WRINKLE\]
+\ING[\INC[Water\] , \INC[Propylene Glycol\] , \INC[Cupressus Sempervirens Seed Extract\] , \INC[Rosmarinus Officinalis ( Rosemary ) Leaf Extract\] , \INC[Ascorbic Acid\] , \INC[Tocopherol\] , \INC[Niacin\]
+\COP[COMPOSITION
+Water: 49 . 1 - 49 . 3%
+Propylene Glycol: 49 . 1 - 49 . 3 %
+Cupressus Sempervirens Seed Extract: 0 . 66 - 0 . 9 % 
+Rosmarinus Officinalis Leaf Extract: 0 . 44 - 0 . 6 %
+Ascorbic Acid: 0 . 1 %
+Tocopherol: 0 . 1 %
+Niacin: 0 . 1 %\]
+
+\RGL[COSMETIC REGULATION
+
+\REG[REACH\]: Not concerned quantity produce per year lower than 1 ton
+\REG[USA\]: Autoris en cosmtique avec le nom INCI CTFA et le n  CAS / Approved for use in cosmetic with INCI CTFA name and CAS number
+\REG[Canada\]:Approved for use in cosmetic with INCI CTFA name
+\REG[Japan\]: Approved for use in cosmetic with INCI CTFA name
+\REG[Australia\]: Approved for use in cosmetic with INCI CTFA name\]
+\CON[Biople Clermont - Limagne 63 360 Saint - Beauzire Tl : 33 04 73 33 99 00 Fax : 33 04 73 33 91 32 e - mail : greentech @ greentech . fr DONNEES\] \TOX[TOXICOLOGICAL DATA
+Skin irritation: Non irritant : Product tested at 10 %: Patch Test
+Eye irritation: Slightly irritant: Product tested at 10 %: Het cam CFIO Test\]\]

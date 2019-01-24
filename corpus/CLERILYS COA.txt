@@ -1,0 +1,26 @@
+\SKN|SPE[SPECIFICATION DATA SHEET
+\CON[Biople Clermont  Limagne
+63 360 Saint  Beauzire
+Tel : 33 04 73 33 99 00
+Fax : 33 04 73 33 91 32
+e  mail : greentech @ greentech . fr\]
+\TRN[CLERILYS W\]
+\STR[Good for 24 months Keep in the original packaging , without opening , in the recommended. Storage conditions: Agitation advised before use 
+STORAGE : room temperature ( 15 - 25  C )\]
+
+\ING[\INC[Cucumber ( Cucumis sativus )seed\] \INC[White mulberry ( Morus alba )bark\] \INC[Hibiscus ( Hibiscus sabdariffa ) flower\] \INC[Water\] \INC[Sodium benzoate\] \INC[Potassium sorbate\] \INC[Citric acid\]
+
+\PRO[Sight   GT001   Liquid
+Color    GT002  Yellow to amber
+Odor    GT003  Characteristic
+Solubility 10 % in water    GT004  Soluble
+ Solubility 10% in ethanol    GT004   Soluble with opalescence
+pH (direct)     GT005     2.6-4.6
+ Dry matter (%)      GT006     2.5-5.5
+Refraction index    GT007     1.330-1.350
+Density       GT008           0.980-1.020\]
+
+\MCR[MICROBIOLOGICAL ANALYSIS
+Total germs ( cfu/mL)    GT100      <100
+Yeasts and moulds (cfu/mL)    GT101     <100
+ Enterobacteria (cfu/mL)          GT102        Absence\]\]

@@ -1,0 +1,576 @@
+\SKN[\TRM[Revinage®\]
+\DES[A safe, stable, plant-based alternative to \SUB[retinoids\] for the treatment 
+of \BEN[aging\] skin. \TRM[Revinage®\] is an exclusive supercritical apolar extract 
+of \CMN[Picão Preto\] (\SCN[Bidens pilosa\]) standardized in \SUB[phytol\]\].
+
+\RTB[\SUB[Retinoids\]
+• Family of compounds related to \SUB[vitamin A\] and its derivatives
+• It binds to specific \MLT[nuclear receptors – RAR (retinoic acid receptors)\] and \MLT[RXR (retinoid X receptors)\]\]
+
+• \BEN[Highly efﬁ cient for the treatment of aging, 
+   photoaging, acne, psoriasis and others\]
+• \ADP[The most prescribed active ingredient\]
+
+• \CAU[Diverse side effects include skin irritation, 
+   photosensibility, telangiectasia, teratogenicity 
+   and embriotoxicity
+• Instability in contact with light and oxygen\]
+
+How It Works
+\CLA|MOA[\TRM[Revinage®\] provides \SUB[retinol\]-like behavior by binding to the \MLT[RXR receptor\] and reducing by \NUM[20\]\UNT[%\] the \MLT[RAR\] 
+expression while increasing the \MLT[RXR\] expression by \NUM[119\]\UNT[%\] resulting in effective \BEN[anti-aging\] and 
+\BEN[anti-photoaging\] action\]:
+
+1. \RTB[Stimulates the cellular proliferation, differentiation and extracellular matrix production\]
+\MOA[\TRM[Revinage®\] upregulates gene expression of \MLT[EGFr\] and \SUB[pro-collagen\], increasing the production of \SUB[collagen\] type I and 
+IV, \SUB[elastin\] and the \MLT[growth factors\] \MLT[FGF-β\] and \MLT[TGF-β\], in addition to inhibit the production of \MLT[MMP-1\]\].
+2. \RTB[Features antioxidant activity and the regulation of cell senescence\]
+\MOA[\TRM[Revinage®\] stimulates the production of \MLT[SOD\] and \MLT[CAT\] in addition to reduce the production of free radicals and 
+lipoperoxidation and stimulate gene expression of \MLT[SIRT6\].
+3. \CLA[Provides soothing effect\]
+\MOA[\TRM[Revinage®\] regulates the activity of \MLT[AP-1\], \MLT[COX-2\], \MLT[PGE2\] and \MLT[LTB4\] featuring excellent \BEN[soothing\] effect\].
+4. \CLA[Stimulates \BEN[skin lightening\]\]
+\MOA[\TRM[Revinage®\] reduces the production of \SUB[alpha-MSH\] and, as a result the production of \SUB[melanin\]\].
+
+5. \CLA[Controls \BEN[skin oiliness\]\]
+\MOA[\TRM[Revinage®\] reduces the production of \SUB[DHT\], an important mediator in the production of \SUB[sebum\] in the skin\].
+
+Efﬁ cacy
+\SIL[In silico
+\MLT[RXR Receptor\]
+Simulation of the interaction between the \MLT[RXR receptor\] and \SUB[phytanic acid\], a molecule produced
+by transformation of the \SUB[phytol\] present in \TRM[Revinage®\] when it permeates the skin.
+
+\SUB[Phytanic acid\] (represented by green spheres and sticks) positioned on the active site of the \MLT[RXR
+receptor\] (gray surface)\].
+
+In vitro
+RAR e RXR Receptors
+Human fibroblasts treated by 48h.
+
+)
+
+A
+N
+R
+m
+
+(
+ 
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+ 
+e
+n
+e
+G
+
+2.5
+2
+1.5
+1
+0.5
+0
+
+119%
+
+90%
+
+34%
+
+62.3%
+
+-26%
+
+20%
+
+RAR
+
+RXR
+
+Extracellular Matrix
+Human fibroblasts treated by 48h.
+
+150
+
+100
+
+50
+
+0
+
+)
+L
+m
+/
+g
+m
+
+i
+
+(
+ 
+n
+e
+t
+o
+r
+P
+
+65%
+*
+
+46%
+*
+
+24%
+*
+
+67%
+*
+
+17%
+*
+
+26%
+*
+
+Collagen
+
+Elastin
+
+Control
+
+Retinoic Acid (30 µM)
+
+Retinol (0.15%)
+
+Revinage® (0.15%)
+
+Note
+*p<0.05 in relation to the control
+
+Soothing Effect
+Human ﬁ broblasts treated by 48h.
+
+)
+l
+o
+r
+t
+n
+o
+c
+ 
+e
+h
+t
+ 
+o
+t
+ 
+n
+o
+i
+t
+a
+e
+r
+ 
+n
+i
+ 
+
+l
+
+%
+
+(
+
+ 
+y
+t
+i
+v
+i
+t
+c
+a
+ 
+1
+-
+P
+A
+
+-0
+-10
+-20
+-30
+-40
+-50
+-60
+
+-11
+**
+
+-34
+*
+
+-48
+*
+
+2.5
+2
+1.5
+1
+0.5
+0
+
+)
+L
+m
+/
+g
+n
+(
+ 
+2
+-
+X
+O
+C
+
+8.5%
+*
+
+-33%
+**
+
+-69%
+
+*
+
+Control
+
+Retinoic Acid (30 µM)
+
+Retinol (0.15%)
+
+Revinage® (0.15%)
+
+In vivo
+Clinical Evaluation – Objective
+• 40 volunteers
+• 35-55 years
+
+• Revinage® 2%
+• Retinol Palmitate 0.3%
+
+• Twice a day for 56 days
+• Hemi-face and forearm
+
+I
+
+)
+a
+S
+ 
+-
+ 
+S
+O
+M
+R
+P
+(
+ 
+s
+s
+e
+n
+h
+g
+u
+o
+r
+ 
+
+%
+
+0%
+
+-10%
+-20%
+
+-30%
+
+-40%
+
+Forearm
+
+Face
+
+D14  D28  D42  D56
+
+D14  D28  D42  D56
+
+-16%
+
+-16%
+
+-27%
+-29% -32%
+
+-37%
+
+-24%
+
+-35%
+
+-11%
+
+-23%
+
+-23%
+
+-23%
+
+-26%
+
+-26%
+
+-36%
+
+-36%
+
+d
+e
+r
+a
+p
+m
+o
+c
+ 
+s
+t
+o
+p
+s
+ 
+k
+r
+a
+d
+ 
+f
+o
+ 
+%
+
+)
+
+I
+
+I
+
+A
+S
+V
+(
+ 
+l
+a
+s
+a
+b
+ 
+e
+h
+t
+ 
+o
+t
+
+0%
+-20%
+-40%
+-60%
+-80%
+-100%
+
+Revinage® 
+
+Retinol Palmitate
+
+Note
+*p<0.01 and **p<0.05 in relation to the control
+
+D14           D28           D42           D56
+
+-21%
+
+-32%
+
+-36% -37%
+
+-48%
+
+-53% -67%
+
+-86%
+
+Revinage® effect on deep wrinkles of the facial skin (periorbital region) after 28 days of continuous
+treatment measured by PRIMOS and OMNIA®
+
+PRIMOS
+
+Results after 28 days
+
+x
+a
+m
+S
+
+3,5
+3,0
+2,5
+2,0
+1,5
+1,0
+0,5
+0,0
+-0,5
+-1,0
+-1,5
+
+02
+
+46
+
+81
+
+01
+
+21
+
+41
+
+61
+
+8
+
+Smax D28
+
+Smax D0
+
+h
+t
+p
+e
+d
+ 
+s
+e
+k
+n
+i
+r
+
+l
+
+W
+
+OMNIA®
+
+D 0
+
+The graph shows values of Smax obtained from the indicated 
+
+regions (blue arrows) in the photographs. 
+
+D 28
+
+Photographic documentation - OMNIA®
+
+Stability
+Study of Photodegradation (6 hours under UV radiation in a solar simulation chamber) and oxidation 
+(3% peroxide for 15 hours at 30°C).
+
+Photodegradation
+
+Oxidative degradation
+
+-3%
+
+-54%
+
+n
+o
+i
+t
+a
+d
+a
+r
+g
+e
+d
+ 
+%
+
+0%
+
+50%
+
+-100%
+
+-150%
+
+-8%
+
+-100%
+
+Retinol
+
+Revinage® 
+
+Beneﬁ ts
+
+• \CLA[Regulates \RTB[cell proliferation and differentiation\] as well as stimulates the \RTB[production of extracellular matrix\] by 
+
+ensuring greater \BEN[skin ﬁ rmness\] and \BEN[wrinkles ﬁ lling\]\]
+
+• \CLA[Provides a \BEN[soothing effect\] because it regulates key inﬂ ammatory mediators responsible for the adverse 
+
+effects of \SUB[retinoids\]\]
+
+• \CLA[Increases by \NUM[25\]\UNT[%\] the \BEN[densiﬁ cation of the dermis\] in the \BOP[face\] after \DUR[42 days\]\]
+• \CLA[Reduces in \NUM[67\]\UNT[%\] the hyperpigmented regions in the \BOP[face\] after \DUR[56 days\]\]
+• \CLA[Reduces the \BEN[roughness\] of the facial skin in \NUM[36\]\UNT[%\] after after \DUR[42 days\]\]
+• \CLA[Reduces in \NUM[28\]\UNT[%\] the \BEN[deep wrinkles\] of the facial skin after \DUR[42 days\]\]
+• \CLA[Reaches the deeper layers of the skin in \DUR[4 hours\]\]
+• \PRO[Features high stability to photodegradation and oxidation\] 
+Application
+• \PRD[\LON[Cream\], \LON[lotion\], \LON[non-transparent gel\], \LON[gel-cream\], \LON[serum\] and \LON[oil\] for the treatment of \BEN[aging\] and \BEN[photoaging skin\]\]
+• \PRT[It should be incorporated into oil phase at about \NUM[85\]\UNT[°C\]\]
+\STB[Stability and Compatibility
+• Stable at pH \NUM[5.5 - 7.0\]
+• It can be heated up to \NUM[85\]\UNT[°C\]
+• Liposoluble\]
+\USL[Concentration of Use
+\NUM[1-2\]\UNT[%\] (w/w)\]
+\ING[\INC[Bidens Pilosa Extract\] (and) \INC[Elaeis guineensis (Palm) Oil\] (and) \INC[Gossypium herbaceum (Cotton) Seed Oil\] 
+(and) \INC[Linum usitatissimum (Linseed) Seed Oil\]\]
+
+chemyunion.com\]
+
+

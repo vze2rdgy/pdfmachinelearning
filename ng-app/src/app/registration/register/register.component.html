@@ -1,0 +1,88 @@
+<div class="base-container">
+
+    <div class="mat-headline pagetitle">Hey {{userName}}, lets get started </div>
+    <form (ngSubmit)="onSubmit()" #regForm="ngForm">
+      <mat-accordion class="example-headers-align">
+  
+        <mat-expansion-panel [expanded]="step === 0" (opened)="setStep(0)" hideToggle>
+          <mat-expansion-panel-header>
+            <mat-panel-title>
+              Information
+            </mat-panel-title>
+            <mat-panel-description>
+              Give me your kumon details
+              <mat-icon>account_circle</mat-icon>
+            </mat-panel-description>
+          </mat-expansion-panel-header>
+  
+  
+          <div class="form-container" [style.fontSize.px]=18>
+            <mat-form-field>
+              <input matInput placeholder="What is the name of location" required name="locationname" [(ngModel)]="model.locationname">
+            </mat-form-field>
+  
+            <mat-form-field class="phone">
+              <input matInput type="tel" placeholder="Phone number" required name="phonenumber" [(ngModel)]="model.phonenumber">
+              <!-- <example-tel-input placeholder="Phone number" required name = "phonenumber" [(ngModel)] = "model.phonenumber"></example-tel-input>
+              <mat-icon matSuffix>phone</mat-icon>
+              <mat-hint>Include area code</mat-hint> -->
+            </mat-form-field>
+          </div>
+  
+  
+          <mat-action-row>
+            <button type="button" mat-button color="primary" (click)="nextStep()">Next</button>
+          </mat-action-row>
+  
+        </mat-expansion-panel>
+  
+        <mat-expansion-panel [expanded]="step === 1" (opened)="setStep(1)" hideToggle>
+          <mat-expansion-panel-header>
+            <mat-panel-title>
+              Address
+            </mat-panel-title>
+            <mat-panel-description>
+              Type the address
+              <mat-icon>map</mat-icon>
+            </mat-panel-description>
+          </mat-expansion-panel-header>
+          <div class="form-container" [style.fontSize.px]=18>
+            <mat-form-field>
+              <input matInput placeholder="Address 1" name="address1" [(ngModel)]="model.address1" required>
+            </mat-form-field>
+  
+            <mat-form-field>
+              <input matInput placeholder="City" name="city" [(ngModel)]="model.city" required>
+            </mat-form-field>
+  
+            <mat-form-field>
+              <mat-select placeholder="State" name="state" [(ngModel)]="model.state" required>
+                <mat-option value="New Jersey">New Jersey</mat-option>
+                <mat-option value="New York">New York</mat-option>
+              </mat-select>
+            </mat-form-field>
+  
+            <mat-form-field>
+              <input matInput placeholder="Zipcode" name="zipcode" [(ngModel)]="model.zipcode" required>
+            </mat-form-field>
+  
+            <mat-form-field>
+              <mat-select placeholder="Country" name="country" [(ngModel)]="model.country" required>
+                <mat-option value="Canada">Canada</mat-option>
+                <mat-option value="USA">USA</mat-option>
+              </mat-select>
+            </mat-form-field>
+          </div>
+  
+          <mat-action-row>
+            <button mat-button color="warn" (click)="prevStep()">Previous</button>
+            <!-- <button mat-button color="primary" (click)="nextStep()">Next</button> -->
+            <button type="submit" mat-button color="primary"> Save</button>
+          </mat-action-row>
+        </mat-expansion-panel>
+  
+      </mat-accordion>
+    </form>
+  
+    <!-- <pre>{{regForm.value | json}}</pre> -->
+  </div>

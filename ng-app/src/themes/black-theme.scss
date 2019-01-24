@@ -1,0 +1,9 @@
+$lynx-black-primary: mat-palette($mat-grey, 700, 300, 900);
+$lynx-black-accent: mat-palette($mat-blue-grey, 400);
+$lynx-black-warn: mat-palette($mat-red, 500);
+
+$lynx-black-theme: mat-dark-theme(
+  $lynx-black-primary,
+  $lynx-black-accent,
+  $lynx-black-warn
+);

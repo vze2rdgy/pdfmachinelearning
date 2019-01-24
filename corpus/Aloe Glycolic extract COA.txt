@@ -1,0 +1,37 @@
+\SKN|RGL[SPECIFICATION DATA SHEET/CERTIFICATE OF ANALYSIS
+\TRN[ALOE GLYCOLIC EXTRACT\]
+\STR[36 months:
+room temperature ( 22  C )\]
+\CON[Biople Clermont  Limagne
+63 360 Saint  Beauzire
+Tel : 33 04 73 33 99 00
+Fax : 33 04 73 33 91 32
+e  mail : greentech @ greentech . fr\]
+COMPOSITION
+ING[\INC[Aloe ( Aloe ferox ) Leaf\] \INC[Propylne glycol\] \INC[Water\]\]
+\PRO[ORGANOLEPTIC CHARACTERISTICS
+Sight GT001 Liquid
+Color GT002 Brown 
+Odor  GT003 Characteristic\]
+ 
+
+\PRO[PHYSICAL AND CHEMICAL CHARACTERISTICS
+pH ( Sol 10 % in thanol 30 % v / v ) GT005 4 . 0 - 5 . 5
+Content in water (%) GT022 10 . 0
+Density GT071 1 . 080 - 1 . 110\]
+
+GT319
+IDENTIFICATIONS
+Identification TLC : hydroxyanthracenic derivative Conform
+
+\MCR[MICROBIOLOGICAL ANALYSIS
+Total germs ( ufc / mL - cfu / mL ) GT100 < 100 
+Yeasts and moulds ( ufc / mL - cfu / mL ) GT101 < 10  
+Enterobacteria ( ufc / mL - cfu / mL ) GT102 Absence
+Escherichia coli ( ufc / mL - cfu / mL ) GT103 Absence
+Staphylococcus aureus ( ufc / mL - cfu / mL ) GT104 Absence
+Pseudomonas aeruginosa ( ufc / mL - cfu / mL ) GT105 Absence
+Salmonella ( ufc / mL - cfu / mL ) GT107 Absence\]\]
+
+
+

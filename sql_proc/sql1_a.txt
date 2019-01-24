@@ -1,0 +1,171 @@
+--select row_to_json(row) from (select * from public."DocMetaData") row;
+
+DROP TABLE ING;
+DROP TABLE ING_F;
+DROP TABLE INC;
+DROP TABLE INC_F;
+DROP TABLE CLA;
+DROP TABLE CLA_F;
+DROP TABLE FINAL_RESULT;
+
+CREATE TEMP TABLE ING  AS
+ SELECT 
+  DM."DocId"
+, TG."Name"
+, DM."TagClassId"
+, DM."TagData"
+, DM."Score"
+,ROW_NUMBER() OVER(PARTITION BY DM."DocId" 
+                                 ORDER BY DM."Score" DESC) AS RK
+FROM public."DocMetaData"    as DM
+	
+join public."Documents" as DC
+on DC."DocId"  = DM."DocId"
+	
+join public."Tags" as  TG
+on DM."TagId"  = TG."TagId"
+and TG."TagId" in (37)
+--where rk=1
+;
+
+
+CREATE TEMP TABLE ING_F  AS
+select 
+  ING."DocId"
+, ING."TagClassId"
+, ING."TagData"
+, ING."Score"
+, ING."rk"
+, S."Name"
+  from ING
+  
+left join public."Documents" as D
+ON D."DocId" = ING."DocId"
+  
+left join public."Suppliers" as S
+ON D."SupplId" = S."SupplId"
+
+WHERE rk = 1;
+
+SELECT * from ING_F;
+
+
+CREATE TEMP TABLE INC  AS
+ SELECT 
+  DM."DocId"
+, TG."Name"
+, DM."TagClassId"
+, DM."TagData"
+, DM."Score"
+,ROW_NUMBER() OVER(PARTITION BY DM."DocId" 
+                                 ORDER BY DM."Score" DESC) AS RK
+FROM public."DocMetaData"    as DM
+	
+join public."Documents" as DC
+on DC."DocId"  = DM."DocId"
+	
+join public."Tags" as  TG
+on DM."TagId"  = TG."TagId"
+and TG."TagId" in (38)
+--where rk=1
+;
+
+
+CREATE TEMP TABLE INC_F  AS
+select * from INC
+WHERE rk < 3;
+
+
+
+SELECT * from INC_F
+ORDER BY INC_F."DocId", INC_F."rk";
+
+CREATE TEMP TABLE INC_FA  AS
+
+Select  DocId, CONCAT('[','''',coll1,'''', ',','''', coll2,'''',']') as TagData
+FROM 
+(select INC_F."DocId"  as DocId,
+ MAX( case when INC_F."rk" = 1 then INC_F."TagData" else NULL END )as coll1,
+MAX( case when INC_F."rk" = 2 then INC_F."TagData" else NULL END ) as coll2
+from INC_F
+GROUP BY INC_F."DocId" 
+ ) as temp 
+
+
+CREATE TEMP TABLE CLA  AS
+ SELECT 
+  DM."DocId"
+, TG."Name"
+, DM."TagClassId"
+, DM."TagData"
+, DM."Score"
+,ROW_NUMBER() OVER(PARTITION BY DM."DocId" 
+                                 ORDER BY DM."Score" DESC) AS RK
+FROM public."DocMetaData"    as DM
+	
+join public."Documents" as DC
+on DC."DocId"  = DM."DocId"
+	
+join public."Tags" as  TG
+on DM."TagId"  = TG."TagId"
+and TG."TagId" in (16)
+and DM."TagData"  like '%skin%'
+--where rk=1
+;
+
+CREATE TEMP TABLE CLA_F  AS
+SELECT CLA."DocId", CLA."rk", CLA."TagData"
+FROM CLA
+WHERE rk < 4;
+
+SELECT CLA_F."DocId", CLA_F."rk", CLA_F."TagData" 
+from CLA_F 
+ORDER BY CLA_F."DocId", CLA_F."rk";
+
+
+CREATE TEMP TABLE CLA_FA  AS
+
+Select  DocId, CONCAT('[','''',coll1,'''', ',','''', coll2,'''',',','''', coll3,'''',']') as TagData
+FROM 
+(select CLA_F."DocId"  as DocId,
+MAX( case when CLA_F."rk" = 1 then CLA_F."TagData" else NULL END )as coll1,
+MAX( case when CLA_F."rk" = 2 then CLA_F."TagData" else NULL END ) as coll2,
+MAX( case when CLA_F."rk" = 3 then CLA_F."TagData" else NULL END ) as coll3 
+from CLA_F
+GROUP BY CLA_F."DocId" 
+ ) as temp 
+
+
+
+
+
+CREATE TEMP TABLE FINAL_RESULT AS 
+select 
+ING_F."TagData" as "ING_NAME"
+,INC_FA.TagData as "INC_NAME" 
+, .7 as "Accuracy"
+, CLA_FA.DocId
+--, CLA_F."rk"  as "Rank"
+, CLA_FA.TagData as "Claim"
+
+
+from CLA_FA
+left join ING_F
+ON CLA_FA.DocId = ING_F."DocId"
+--AND CLA_FA."rk"   = ING_FA."rk"
+
+left join INC_FA
+ON CLA_FA.DocId = INC_FA.DocId
+--AND CLA_FA."rk"   = INC_FA."rk"
+
+--ORDER BY CLA_F."DocId" , CLA_F."rk"
+;
+
+
+
+
+
+select row_to_json(row) from (
+SELECT * FROM FINAL_RESULT 
+ORDER BY FINAL_RESULT.DocId 
+) row;

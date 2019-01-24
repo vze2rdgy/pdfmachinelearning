@@ -1,0 +1,126 @@
+\SKN[\TRN[G-Hexuron\] 
+
+ 
+
+\BEN[Anti-Wrinkle\] 
+
+\BEN[Skin-Lightening\] 
+
+\RTB[Promotes Collagen\] 
+
+G-Hexuron 
+
+INCI Name: 
+
+     \INC[Ascorbyl Glucoside\] 
+
+\CAS[CAS Number:  
+
+129499-78-1\]  
+
+\DES[Description:  
+
+Among  the  well  studied,  2-derivatives  of  stabilized  \SUB[L-Ascorbic  Acid\],  the  \SUB[2-glucoside 
+(Ascorbyl    Glucoside)\]  is  preferred  by  most  researchers  for  post-UV  efficacy  in           
+\BEN[antioxidant  activity\],  in  \RTB[Inflammation  mitigation\],  in  \RTB[\SUB[collagen\]  stimulation\]  and  finally  for   
+\MOA[inhibition of melanogenesis\]. \ROS[\TRN[G-Hexuron\] is the stabilized form of \SUB[Vitamin C\]\] that can be 
+topically  applied  to  the  skin  in  advanced  formulations  specifically  targeted  for          
+\BEN[antiaging\]  and  \BEN[photo-protection\]  benefits.  \STB[G-Hexuron  is  the  water  soluble,  Vitamin  C,     
+2-derivative  with  superior  formulation  stability.    G-Hexuron  is  both  bioavailable  and    
+bioactive  in  its  2-glucoside  form  and  has  been  shown  to  be  more  bio-persistent  over 
+time vs. Vitamin C\]. G-Hexuron is photo-protective, \BEN[visibly lightens skin\]  and possesses 
+\BEN[anti-aging\] properties similar to \SUB[Vitamin C\]\]. 
+
+\SPE[Technical Data: 
+
+Test/Properties: 
+
+\PRO[Appearance: White to cream powder\] 
+\PRO[pH: \NUM[2.0 ~ 2.5\]\] 
+\PRO[Melting Point: \NUM[158\]\UNT[oC\] ~ \NUM[163\]\UNT[oC\]\] 
+\PRO[Optical rotation: \NUM[186.0\]o ~ \NUM[188.0\]o\]  
+\PRO[Loss on drying: < \NUM[1.0\]\UNT[%\]\]   
+\PRO[Residue on ignition: < \NUM[0.2\]\UNT[%\]\] 
+\PRO[Free ascorbid acid: < \NUM[0.1\]\UNT[%\]\]
+\PRO[Free glucose:  < \NUM[0.1\]\UNT[%\]\]
+\IMP[Heavy metals (as \SUB[Pb\]):  < \NUM[10\]\UNT[ppm\]\]
+\IMP[\SUB[Arsenic\] (\CHF[AS203\]): < \NUM[1\]\UNT[ppm\]\]
+\ACC[Assay: > \NUM[98\]\UNT[%\] \]  
+
+Specification: 
+
+ 
+
+\USL[Recommended Use Level: \NUM[1\]\UNT[%\] to \NUM[2\]\UNT[%\]\]  
+
+Applications: 
+\TRN[G-Hexuron\]  is  recommended  for  \BEN[anti-aging\],  \RTB[collagen  stimulation\]  and  \BEN[skin  lightening\].                        
+\PRD[G-Hexuron  applications  include  anti-aging  and  lightening  products,  foundations,     
+sunscreens,  masks,  facial  moisturizers,  conditioners,  creams,  lotions,  and  whitening 
+products\]. 
+
+\CON|COM[McKinley Resources, Inc. 
+
+P.O. Box 810472 • Dallas, TX  75381 
+
+Phone:  972-620-9730 • Fax:  972-421-1860 
+
+www.mckinleyresources.com  ▪  info@mckinleyresources.com\] 
+
+\VIV[]In-vivo testing of \TRN[G-Hexuron\] to show \BEN[skin lightening\] effect 
+
+\PRT[In clinical testing, \NUM[sixteen\] female volunteers, ages (\RAN[37 to 55\]) were 
+used to test the \BEN[skin lightening\] effects.             
+
+\USL[\NUM[2\]\UNT[%\] \TRN[G-Hexuron\] was applied \USF[twice a day\] for a period of \DUR[90 days\] to 
+show an increase in \BEN[skin lightening\]\].  
+
+\MSR[As  a  result,  \BEN[skin  lightening\]  increased  by  \NUM[80\]\UNT[%\]  in  \DUR[45  days\],  and 
+\NUM[120\]\UNT[%\] in \DUR[90 days\].  Which is a ratio of 1.5 on day 45, and 2.5 after 
+90 days\].                                     
+
+ 
+
+In-vivo testing of G-Hexuron to show \BEN[anti-wrinkle\] effect 
+
+\PRT[Clinical  testing  in  an  \BEN[anti-aging\] skin study  was  conducted  on six-
+teen female volunteers, age \RAN[37 to 55\]. 
+
+\USL[\NUM[2\]\UNT[%\]  \TRN[G-Hexuron\]  in  a  formulation  was  applied  \USF[twice  a  day\]  over  \DUR[90 
+days\]. The formulation  was applied to the \BOP[lateral area (crow’s feet 
+area) of the  volunteers eyes and thoroughly  across the cheek ar-
+ea\]\].  
+
+\MSR[As a result, the \BEN[appearance of wrinkle depth\] is well improved after 
+\DUR[45 days\] and substantially improved at \DUR[90 days\]\]\]. 
+
+\VIT[In-vitro testing of G-Hexuron to show \MOA[\SUB[melanin reduction\](1) 
+
+\PRT[An in-vitro culture  was  treated  with \USL[\NUM[2\]  \UNT[mmol/L\] of  \TRN[G-Hexuron\], \SUB[AA-
+2P\],  or  \SUB[Vitamin C\]  (Vit.  C).  \SUB[Melanin\] content  was  checked  after  \TPO[24\] \UNT[hrs\] 
+and \TPO[48\] \UNT[hours\]\]. 
+
+\MSR[After  \TPO[one  day\],  \TRN[G-Hexuron\]  significantly  reduced  \SUB[melanin\]  content 
+compared to  untreated  cells. After \TPO[two  days\],  \TRN[G-Hexuron\] significantly  reduced  \SUB[melanin\]  content  compared  to  all  other 
+groups\]. 
+
+\PRT[In-vitro testing of G-Hexuron to show it promotes \RTB[\SUB[collagen\] protein synthesis\](2) 
+
+An in-vitro culture of human \BBC[fibroblasts\] was grown in the presence 
+of TRN[G-Hexuron\] for \RAN[1-8 days\]. 
+
+\MSR[\TRN[G-Hexuron\]  promoted  a  significant  increase  in  \SUB[collagen\]  synthesis 
+compared to the untreated group. 
+
+Notably,  \SUB[collagen\]  synthesis  decreased  in  \SUB[Vitamin  C\]  and  \SUB[AA-2P\] 
+treated  cells  at  \TPO[day  5\],  while  levels  for  \TRN[G-Hexuron\]  treated  cells 
+remained stable\]\].  
+
+\CIT[1Yoshimaru  Kumano,  et  al.,  In  Vitro  and  In  Vivo  Prolonged  Biological  Activities  of  Novel  Vitamin  C  Derivative,  2-0-α-D-Glucopyranosyl-L-Ascorbic  Acid  (AA2G),  in 
+Cosmetic Fields, J Nutr Sci Vitaminol 44, 345-359 (1998). 
+2Yosimaru Kumano, et al., Enhancing effect of 2-0-α-D-Glucopyranosyl-L-Ascorbic Acid, a Stable Ascorbic Acid Derivative, on Collagen Synthesis, Biol Pharm Bull 21
+(7), 662-668 (1998)\]\]. 
+
+  
+
+

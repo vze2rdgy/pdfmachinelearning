@@ -1,0 +1,115 @@
+<div class="container">
+  <div class="row">
+
+
+    <div class="title">
+
+      <h1 class="main-heading">{{ 'lynx.payments.home.title' | translate }}</h1>
+
+      <span class="spacer"></span>
+      <mat-toolbar class="toobar">
+        <mat-checkbox class="right-margin" [checked]="flaggedOnly" (change)="flaggedOnlyValueChange($event)">
+          Flagged Only</mat-checkbox>
+        <button mat-button color="basic">
+          <mat-icon>add</mat-icon>
+        </button>
+
+        <button mat-button color="basic">
+          <mat-icon>more_vert</mat-icon>
+        </button>
+      </mat-toolbar>
+    </div>
+  </div>
+  <div class="mat-elevation-z8">
+
+    <mat-form-field>
+      <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Search">
+    </mat-form-field>
+
+    <mat-table #table [dataSource]="dataSource">
+
+      <!-- Checkbox Column -->
+      <ng-container matColumnDef="select">
+        <mat-header-cell *matHeaderCellDef>
+          <mat-checkbox (change)="$event ? masterToggle() : null" [checked]="selection.hasValue() && isAllSelected()"
+            [indeterminate]="selection.hasValue() && !isAllSelected()">
+          </mat-checkbox>
+        </mat-header-cell>
+
+        <mat-cell *matCellDef="let row">
+          <mat-checkbox (click)="$event.stopPropagation()" (change)="$event ? selection.toggle(row) : null" [checked]="selection.isSelected(row)">
+          </mat-checkbox>
+        </mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="paymentcode">
+        <mat-header-cell *matHeaderCellDef> Family Code </mat-header-cell>
+        <mat-cell *matCellDef="let element">
+          <mat-icon color="warn" *ngIf="element.flagged == 'DECLINEDTRAN' || element.paymentcodedue - element.paymentrecieved > 0">warning</mat-icon>
+          {{element.paymentcode}}
+        </mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="paymentcodedue">
+        <mat-header-cell *matHeaderCellDef> Payment due </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.paymentcodedue}} </mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="paymentrecieved">
+        <mat-header-cell *matHeaderCellDef> Payment recieved </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.paymentrecieved}} </mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="balance">
+        <mat-header-cell *matHeaderCellDef> Balance </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.paymentcodedue - element.paymentrecieved}} </mat-cell>
+      </ng-container>
+
+      <!-- Expanded Content Column - The detail row is made up of this one column -->
+      <ng-container class="redcell" matColumnDef="expandedDetail">
+
+        <div mat-cell *matCellDef="let detail" class="redcell">
+          <div class="expanded-detail-container">
+            <div class="mat-body gray">Students</div>
+            <ul>
+              <li *ngFor="let student of detail.element.students">
+                <div class="flex-container">
+                  <div class="flex-item-studentid mat-body">{{student.studentid}}</div>
+                  <div class="flex-item-studentname mat-body">{{student.name}}</div>
+                  <div class="flex-item-date mat-body">{{student.dob}}</div>
+                  <div class="flex-item-subjects mat-body ">{{student.subjects}}</div>
+                  <div class="flex-item mat-body">$ {{student.totalfee}}</div>
+                </div>
+
+              </li>
+            </ul>
+
+            <div class="mat-body gray">Transactions</div>
+            <ul>
+              <li *ngFor="let transaction of detail.element.trans">
+                <div class="flex-container">
+                  <div class="flex-item-tranid mat-body">{{transaction.tranid}}</div>
+                  <div class="flex-item-date mat-body">{{transaction.date}}</div>
+                  <div class="flex-item-paymenttype mat-body">{{transaction.paymenttype}}</div>
+                  <div class="flex-item-amount mat-body">$ {{transaction.amount}}</div>
+                  <div class="flex-item mat-body">{{transaction.status}}</div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </ng-container>
+
+      <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+      <mat-row *matRowDef="let row; columns: displayedColumns;" matRipple class="element-row" [class.expanded]="expandedElement == row"
+        (click)="expandedElement === row? expandedElement = null : expandedElement = row"></mat-row>
+
+      <mat-row *matRowDef="let row; columns: ['expandedDetail']; when: isExpansionDetailRow" [@detailExpand]="row.element == expandedElement ? 'expanded' : 'collapsed'"
+        style="overflow: hidden">
+      </mat-row>
+    </mat-table>
+
+    <mat-paginator [pageSizeOptions]="[20,50,100]" showFirstLastButtons></mat-paginator>
+  </div>
+
+</div>

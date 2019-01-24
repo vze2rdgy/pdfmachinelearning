@@ -1,0 +1,64 @@
+\SKN|SPE[Specification Sheet
+
+
+\CON[\COM[JARCHEM INDUSTRIES INC.\]
+
+An ISO 9001:2008 Company
+
+414 Wilson Avenue
+
+Newark, NJ 07105
+
+Tel# (973) 344-0600
+
+Fax# (973) 344-5743
+
+E-Mail: info@jarchem.com
+
+Website: www.jarchem.com\]
+
+\ING[\INC[Glycyrrhiza Glabra (Licorice) Root Extract\] (and) \INC[Hydrolyzed Conchiolin Protein\]\]
+
+Specifications Limits
+
+SPECIFICATIONS
+
+\CAS[CAS# 84775-66-6; 73049-73-7\]
+
+Actique Light
+
+\PRO[Appearance \CLR[Yellow\] to \CLR[yellow-brown\] liquid\]
+
+\PRO[Odor Characteristic\]
+
+\PRO[pH (\NUM[10\]\UNT[%\] Solution) \NUM[4.0 - 6.0\]\]
+
+ACC\[\SUB[Glabridin\] content (\MSR[HPLC\]) (\UNT[%\]) \NUM[1.7\]Min\].
+
+\SUB[Nitrogen\] (\UNT[%\]) \NUM[0.3\] Min.
+
+\IMP[Heavy Metals (\UNT[ppm\],\SUB[Pb\]) \NUM[20\] Max\].
+
+\IMP[\SUB[Arsenic\] (As) (\UNT[ppm\]) \NUM[2\] Max\].
+
+\MCR[Total Bacteria (\UNT[CFU/g\]) \NUM[100\] Max\].
+
+\DIS[EXCEPT AS SPECIFICALLY SET FORTH IN THE TERMS AND CONDITIONS AVAILABLE AS SET FORTH BELOW, 
+
+JARCHEM INDUSTRIES MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, 
+
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE FOR THE CHEMICALS IT SELLS.  
+
+Notwithstanding any different or additional terms that may be embodied in your forms, letters and papers, any order received by 
+
+Jarchem Industries will be accepted only on the condition that you expressly assent to the terms and conditions attached to Jarchem 
+
+Industries’ Sales Order Acknowledgment or available online at www.jarchem.com/terms_and_conditions.php
+
+The information contained herein is to our best knowledge true and accurate.  Recommendations and suggestions are made without 
+
+guarantee of favorable results since conditions of use are beyond our control.  These data shall not be construed as a recommendation 
+
+to use any product in conflict with existing patents covering any material or use\].
+
+Effective Date: 11/9/2015\]

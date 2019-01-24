@@ -1,0 +1,89 @@
+<div class="container">
+  <div class="row">
+    <div class="title">
+      <h1 class="main-heading">{{ 'lynx.students.tuitions.title' | translate }}</h1>
+      <span class="spacer"></span>
+      <mat-toolbar class="toobar">
+        <!-- <mat-checkbox class="right-margin" [checked]="activeOnly" (change)="activeOnlyValueChange($event)">
+          Active only</mat-checkbox> -->
+          <button mat-button color="basic" (click)="save()">
+              <mat-icon>save</mat-icon> <span>Save</span>
+            </button>          
+      </mat-toolbar>
+    </div>
+  </div>
+
+  <div class="row">
+      <div class="mat-elevation-z8 contents">
+
+          <mat-form-field>
+            <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Search">
+          </mat-form-field>
+      
+          <table mat-table [dataSource]="dataSource" matSort class="mat-elevation-z8">
+            <!-- Checkbox Column -->
+            <!-- <ng-container matColumnDef="select">
+                          <th mat-header-cell *matHeaderCellDef>
+                            <mat-checkbox (change)="$event ? masterToggle() : null"
+                                          [checked]="selection.hasValue() && isAllSelected()"
+                                          [indeterminate]="selection.hasValue() && !isAllSelected()">
+                            </mat-checkbox>
+                          </th>
+                          <td mat-cell *matCellDef="let row">
+                            <mat-checkbox (click)="$event.stopPropagation()"
+                                          (change)="$event ? selection.toggle(row) : null"
+                                          [checked]="selection.isSelected(row)">
+                            </mat-checkbox>
+                          </td>
+                        </ng-container> -->
+      
+            <!-- Student ID Column -->
+            <ng-container matColumnDef="studentid">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Student id </th>
+              <td mat-cell *matCellDef="let element"> {{element.studentid}} </td>
+            </ng-container>
+      
+            <!-- FName Column -->
+            <ng-container matColumnDef="fname">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> First name </th>
+              <td mat-cell *matCellDef="let element"> {{element.fname}} </td>
+            </ng-container>
+            <!-- lname Column -->
+            <ng-container matColumnDef="lname">
+                <th mat-header-cell *matHeaderCellDef mat-sort-header> Last name </th>
+                <td mat-cell *matCellDef="let element"> {{element.lname}} </td>
+              </ng-container>
+            <!-- Math Column -->
+            <ng-container matColumnDef="math">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Math </th>
+              <td mat-cell *matCellDef="let element" [satPopoverAnchorFor]="mp" (click)="mp.open()"> 
+                $ {{element.math | number:'0.2'}} 
+                <sat-popover #mp hasBackdrop verticalAlign="below" horizontalAlign="start">
+                    <!-- (closed)="update(element, $event)" -->                    
+                      <edit-form (update)="element.math = $event"></edit-form>            
+                    </sat-popover>          
+              </td>
+            </ng-container>
+      
+            <!-- Reading Column -->
+            <ng-container matColumnDef="reading">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Reading </th>
+              <td mat-cell *matCellDef="let element" [satPopoverAnchorFor]="p" (click)="p.open()">
+                $ {{element.reading | number:'0.2' }}
+                <sat-popover #p hasBackdrop verticalAlign="below" horizontalAlign="start">
+                <!-- (closed)="update(element, $event)" -->
+                  <edit-form (update)="element.reading = $event"></edit-form>            
+                </sat-popover>
+              </td>
+            </ng-container>
+      
+            <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+          </table>
+          <mat-paginator [pageSizeOptions]="[20, 50, 100]" showFirstLastButtons></mat-paginator>
+      
+        </div>
+  </div>
+
+
+</div>

@@ -1,0 +1,66 @@
+\SKN[\TRN[aceromine\]
+\STO[phytobioactives concentrate of stabilized natural \SUB[vitamin c\]
+\RTB[\SUB[Vitamin C\] is a very efficient \PRO[anti - oxidant\] .
+It stops the radicalar chain reaction by capturing free radicals\] .
+"At the level of the skin , it is not only necessary to fight against the production of free radicals ( solar irradiation , aging , etc ) but also combat for the modulation of enzymatic activities ."
+"\RTB[In fact , it intervenes in the synthesis of pro - \SUB[collagen\] ( by controlling the replication of genes \MLT[proa1\] , \MLT[proa2\] and \MLT[proa3\] ) but also in its transformation into functional \SUB[collagen\] ( cofactor of the enzymes \MLT[prolyl and lysil - hydroxylase\] )."
+\SUB[Vitamin C\] can also act in the first stages in the pigmentation process\] .
+"The utilization of a natural vitamin C concentrate can then be recommended for the development of anti aging products , protective and regenerating creams , sun protectants , after sun products , lightening and liquid foundation ."
+"\SCN[Malpighia punicifolia\] , the acerola is a cherry originating from \REG[West Indies\] and it is widespread in warm parts of both American continents ."
+Its small ( 1 to 2 cm of diameter ) and bright red \BPA[fruits\] grow on little trees .
+"It has , by far , the highest content of \SUB[vitamin C\] among all fruits ."
+Fruits have been used traditionnally for dysentery treatment .
+It is used in \REG[Brazil\] for fruit juice production\] .
+\COP[composition
+"\MAN[For stabilizing \SUB[vitamin C\] immediately after harvesting , the acerola extract is spray dried with \SUB[maltodextrin\] and encapsulated in a liposome\] ."
+aceromine is titrated in : vitamin c : 1 . 4 % - 2 %\]
+activities
+\RTB[ACEROMINE activity is due to its high content in \SUB[vitamin C\]\] .
+\CLA[aceromine : - Scavenges free radicals - Protects skin from photoaging - \MOA[Stimulates collagen synthesis\] by its role of hydroxylase cofactor and increases hydroxyproline synthesis - Prevents irritation - Reduces \BEN[skin pigmentation\] by \MOA[inhibiting melanogenesis\]\]
+ \ING[ \INC["Water\] , \INC[Malpighia Punicifolia ( Acerola ) Fruit Extract\] , \INC[Alcohol\] , \INC[Glycerin\] , \INC[Lecithin\] , \INC[Guar\] , \INC[Hydroxypropyltrimonium Chloride\] , \INC[Phenoxyethanol\] , \INC[Benzophenone - 4\]\]"
+ \PRE[PRESERVATIVE :
+\INC[Phenoxyethanol\]\]
+ CAS N :
+ EINECS N :
+"7732 - 18 - 5 , 223747 - 63 - 5 , 64 - 17 - 5 , 56 - 81 - 5 , 8002 - 43 - 5 , 65497 - 29 - 2 , 122 - 99 - 6 , 58 - 95 - 7 , 4065 - 45 - 6"
+"231 - 791 - 2 , 310 - 127 - 6 , 200 - 578 - 6 , 200 - 289 - 5 , 232 - 307 - 2 , -, 204 - 589 - 7 , 231 - 710 - 0 , 223 - 772 - 2"
+aceromine
+phytobioactives
+
+\BEN[anti - aging skin care 
+revitalizing skin care 
+sun and after sun products 
+skin lightening products\] 
+\COS[Liquid make - up\]
+
+technicaL Data
+characteristics
+\PRO[Organoleptic : 
+Appearance : Viscous
+Colour : Beige to orange 
+Odour : Characteristic
+Solubility : Water : Soluble 
+Alcohol : Partially soluble
+pH :2 . 5 - 4 . 0\]
+
+FORMUlATIONs
+ \USL[Use level 2 to 10 %\]
+ \CAU[CAUTION FOR Use - Gently shake before using\] .
+"- \PRT[Add at the end of cold preparations and at 35 - 40  C for emulsions , while cooling ."
+- Formulate in a pH range of 3 - 6 . 5\]
+ .
+\TOX[toLerance tests
+Eye irritation : Slightly irritant 
+Skin irritation : No irritant 
+Mutagenicity : No mutagen 
+Sensitization : Hypoallergenic\]
+
+\STR[storaGe
+Store protected from light in their original packaging and in cold room ( less than 8  C ).
+Any container that has been opened should be rapidly used or repacked in sterile packaging\]
+
+\DIS[Warning : The company cannot assume any liability or risk involved in the use of its products since the conditions of use are beyond our control .
+We assume no responsibility concerning the formulations which are brought to the market and which contain one or several of our products .
+"It is incumbent to the formulators to take all necessary precautions and , in particular , to comply with all required legal and regulatory steps and formalities\]\] ."
+
+\CON[Biople Clermont - Limagne - 63360 St Beauzire - France Tel : + 33 4 73 33 99 00 E - mail : greentech @ greentech . fr For Germany : info @ greentechgmbh . de For USA : mmueller @ greentechusainc . com Web site : www . greentech . fr\] 

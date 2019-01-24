@@ -1,0 +1,129 @@
+
+
+{% extends "pagelayout.html" %}
+{% block content %}
+<style type="text/css">
+/* this is the box */
+/*.container {
+    margin: 15px 30px;
+    width: 200px;
+    background: #fff;
+    border: 1px solid #a00;
+    position: relative;
+    min-height: 200px;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    font: bold 1.5em/180px Helvetica, sans-serif;
+    text-shadow: 0 0 1px #000;
+}
+*/
+/* this CS forms the triangles */
+.hero:after,
+.hero:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 100%;
+    width: 0;
+    height: 0;
+    border-style: solid;
+   
+}
+
+
+/* this border color controlls the color of the triangle (what looks like the fill of the triangle) */
+.hero:after {
+    top: 51%;
+    border-color: transparent transparent transparent #f8f9fa;
+    border-width: 10px;
+    
+}
+
+/* this border color controlls the outside, thin border */
+.hero:before {
+    top: 50%;
+    border-color: transparent transparent transparent #000000;
+    border-width: 12px;
+    z-index: -1;
+}
+</style>
+
+<div class="container-fluid pt-5">
+<div class="row">
+	<div  class="col-sm-6">
+
+
+		<div class="card bg-light mb-3 carddiv " id="card1" >
+		<div class="card-header">Popover left</div>
+		<div class="card-body">
+		<p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+		</div>
+		</div>
+		<i class="right"></i>
+
+		<div class="card bg-light mb-3 carddiv" id="card2">
+		<div class="card-header">Popover right</div>
+		<div class="card-body">
+		<p class="card-text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+		</div>
+		</div>
+
+		<div class="card bg-light mb-3 carddiv" id="card3">
+		<div class="card-header">Popover center</div>
+		<div class="card-body">
+		<p class="card-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."</p>
+		</div>
+		</div>
+
+		
+
+
+    </div>
+    <div class="col-sm-5 shadow-lg p-3 mb-5 bg-white rounded border carddisplay card1">
+    	<h5 class="card-title pl-3">Light card title 1</h5>
+    	<p class="card-text pl-3">Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu commun paroles.</p>
+      
+    </div>
+    <div class="col-sm-5 shadow-lg p-3 mb-5 bg-white rounded border carddisplay card2">
+    	<h5 class="card-title">Light card title 2</h5>
+    	<p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+      
+    </div>
+    <div class="col-sm-5 shadow-lg p-3 mb-5 bg-white rounded border carddisplay card3">
+    	<h5 class="card-title">Light card title 3</h5>
+    	<p class="card-text">Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.</p>
+      
+    </div>
+    
+  </div>
+
+</div>
+
+<script>
+		$(document).ready(function(){
+			$(".carddisplay").hide();
+		    $(".carddiv").hover(function(){
+		    	console.log($(this).attr('id'))
+		    	var id = $(this).attr('id');
+
+		    	 $(this).addClass("border-dark");
+		    	 $(this).addClass("hero");  
+
+		    	 
+
+
+		    	$(".carddisplay").hide();
+		    	$("."+id).show();
+		        
+		       }, function(){
+
+		       	$(this).removeClass("border-dark"); 
+		       	$(this).removeClass("hero");  
+		        
+		    });
+		});
+</script>
+
+{% endblock %}
+   

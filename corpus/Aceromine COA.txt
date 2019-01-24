@@ -1,0 +1,44 @@
+\SKN|SPE[SPECIFICATION DATA SHEET BULLETIN D  ANALYSES / CERTIFICATE OF ANALYSIS
+ACEROMINE
+Rfrence du produit / Product reference : 001048
+Biople Clermont  Limagne
+63 360 Saint  Beauzire
+Tel : 33 04 73 33 99 00
+Fax : 33 04 73 33 91 32
+e  mail : greentech @ greentech . fr
+"DLUO : 12 mois / months Conservation dans le contenant d  origine , sans ouverture , dans les conditions de stockage prconises / Keep in the original packaging , without opening , in the recommended Storage conditions STOCKAGE / STORAGE : temprature 2  C  8  C temperature 2  C to 8  C"
+COMPOSITION
+"Acrola / Acerola ( Malpighia punicifolia ) 10 . 0 % thanol surfin / Superfine ethanol 8 . 25 % Glycrine / Glycerin 8 . 0 % Eau / Water 68 . 1 % Lcithine ( soja , non OGM , US ) / Lecithine 3 . 75 % Guar hydroxypropyltrimonium chloride 1 . 0 % Phenoxythanol / Phenoxyethanol 0 . 8 % Benzophnone - 4 / Benzophenone - 4 0 . 1 %"
+Fruit
+CARACTRISTIQUES ORGANOLPTIQUES / ORGANOLEPTIC CHARACTERISTICS
+Aspect / Sight Couleur / Color Odeur / Odor
+GT001 GT002 GT003
+PROCDURES
+SPCIFICATIONS
+Liquide visqueux / Viscous liquid Beige  orange / Beige to orange Caractristique / Characteristic
+CARACTRISTIQUES PHYSICO - CHIMIQUES / PHYSICAL AND CHEMICAL CHARACTERISTICS
+Solubilit : 10 % dans l  eau / Solubility 10 % in water Solubilit : 10 % dans l  thanol / Solubility 10 % in ethanol
+GT004 GT004
+pH ( direct ) Matire sche / Dry matter (%)
+GT005 GT006
+GT009 GT037
+QUANTIFICATIONS
+"Vitamine C (%) Viscosit / Viscosity ( Vitesse / Velocity 10 , Mobile / Spindle 6 , 1 min ) ( mPas ) Plomb / Lead ( ppm ) (*)"
+Arsenic ( ppm ) (*)
+ANALYSES MICROBIOLOGIQUES / MICROBIOLOGICAL ANALYSIS
+Germes arobies totaux / Total germs ( ufc / g - cfu / g )
+Levures et moisissures / Yeasts and moulds ( ufc / g - cfu / g )
+Enterobactries / Enterobacteria ( ufc / g - cfu / g )
+Escherichia coli ( ufc / g - cfu / g ) (*)
+Staphylococcus aureus ( ufc / g - cfu / g )
+Pseudomonas aeruginosa ( ufc / g - cfu / g )
+Candida albicans ( ufc / g - cfu / g ) (*)
+GT100 GT101 GT102 GT103 GT104 GT105 GT106
+ICP - MS ICP - MS
+Soluble Partiellement soluble / Partially soluble 2 . 5 - 4 . 0 18 . 0 - 23 . 0
+"1 . 4 - 2 . 0 10 , 000 - 25 , 000"
+< 10 < 3
+< 100 < 100 Absence Absence Absence Absence Absence
+(*) Analyses effectues tous les 10 lots / Analysis realised every 10 batches
+Version n  19 ( 15 / 12 / 10 ) Version prcdente / Precedent version : n  18 ( 11 / 12 / 09 )
+1

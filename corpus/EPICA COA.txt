@@ -1,0 +1,26 @@
+\SKN|SPE[SPECIFICATION DATA SHEET BULLETIN 
+\TRN[EPICA ORGANIC\]
+\STR[Good for: 24 months STORAGE :room temperature ( 15 - 25  C )\]
+\CON[Biople Clermont  Limagne 63 360 Saint  Beauzire Tel : 33 04 73 33 99 00 Fax : 33 04 73 33 91 32
+e  mail : greentech @ greentech . fr\]
+\ING[\INC[Pine ( Pinus sylvestris ) Bark\] \INC[Blackcurrant ( Ribes nigrum )Leaf\] \INC[Organic ethanol\] \INC[Water\]
+
+\PRO[Sight 		GT001 		Liquid
+Color 			GT002 		 Amber to brown
+Odor 			GT003 		Characteristic
+Solubility 10 % in water	 GT004 		Soluble
+Solubility 10 % in alcohol 	GT004 		Soluble
+pH (direct) 		GT005 		4.5-5.5
+Dry matter (%) 		GT006 		? 1.0
+Refraction index 		GT007 		1.355-1.375
+Density 			GT008 		0.820-0.920\]
+
+\COPPolyphenols (exp catechin, %/DM) 		GT031		 ? 7
+Alcoholic title (%) 			GT024 		55-65\]
+
+\IMP[Plomb / Lead (ppm) 			EN ISO 15586 	? 100
+Arsenic (ppm) 				EN ISO 15586	 ? 50\]
+
+\MCR[Total germs (cfu/mL) 		GT100	 <100
+Yeasts and moulds (cfu/mL) 	GT101	 <100
+Enterobacteria (cfu/mL) 		GT102 	Absence\]\]

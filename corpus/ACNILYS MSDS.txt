@@ -1,0 +1,205 @@
+\SKN|SDS[Safety Data Sheet 
+\TRN[ACNILYS\]
+
+\SUB[Product identifier
+SECTION 1 : Identification of the substance / mixture and of the company / undertaking 
+Product form: Mixtures 
+Product name: : ACNILYS 
+Product code: : 001215  
+Product group: Blend
+
+Relevant identified uses of the substance or mixture and uses advised against Relevant identified uses
+
+Main use category: Industrial use
+Industrial / Professional use spec: Industrial For professional use only
+Use of the substance / mixture:Cosmetic ingredient\]
+
+\CON[GREENTECH Biople Clermont Limagne 63360 SAINT BEAUZIRE - FRANCE T + 33 473 33 99 00 - F 04 73 33 91 32 greentech @ greentech . fr\] 1 . 4 .
+\HZI[Hazards identification
+Classification of the substance or mixture
+Classification according to Regulation ( EC ) No .
+1272 / 2008 [ CLP ] Not classified
+"Adverse physicochemical , human health and environmental effects No additional information available"
+Label elements
+Labelling according to Regulation ( EC ) No .
+1272 / 2008 [ CLP ] Extra labelling to displayExtra classification ( s ) to display No labelling applicable
+Other hazards: No additional information available\]
+
+\COP[Composition / information on ingredients 
+Substances: Not applicable
+Mixtures
+AQUA ( CAS - No .) 7732 - 18 - 5 ( EC - No .) 231 - 791 - 2 ( REACH - no ) Exempte annexe I 25 - 50%
+PROPANEDIOL CAS - No .)504 - 63 - 2 ( EC - No .) 207 - 997 - 3 25 - 50%
+RHODOMYRTUS TOMENTOSA FRUIT EXTRACT 1 - 10%\]
+
+
+\FAM[First aid measures 
+First - aid measures general: Never give anything by mouth to an unconscious person ."If you feel unwell , seek medical" advice ( show the label where possible ).
+First - aid measures after inhalation:  Remove victim to fresh air .Allow the victim to rest ."If you feel unwell , seek medical advice ."Assure fresh air breathing
+First - aid measures after skin contact: No hazards which require special first aid measures .Remove affected clothing and wash all"exposed skin area with mild soap and water , followed by warm water rinse
+First - aid measures after eye contact: Immediately rinse with water for a prolonged period while holding the eyelids wide open ."Remove contact lenses , if present and easy to do ."Continue rinsing .If eye irritation persists : Get medical advice / attention .Rinse immediately with plenty of water . "Obtain medical attention if pain , blinking or redness persists
+First - aid measures after ingestion: No hazards which require special first aid measures .Rinse mouth .Do NOT induce vomiting .Obtain emergency medical attention .
+"Most important symptoms and effects , both acute and delayed": No additional information available
+Indication of any immediate medical attention and special treatment needed: Treat symptomatically\] 
+
+\FIR[Firefighting measures
+Suitable extinguishing media: Use extinguishing media appropriate for surrounding fire .dry chemical powder .Foam .Water. spray .Carbon dioxide .Dry powder . Sand
+Unsuitable extinguishing media:  Do not use a heavy water stream 
+Fire hazard : Combustible liquid .direct fire hazard
+Hazardous decomposition products in case of fire: Incomplete combustion releases dangerous carbon monoxide , carbon dioxide and other toxic gases ."
+Firefighting instructions: Evacuate area .Only qualified personnel equipped with suitable protective equipment may intervene .Use water spray or fog for cooling exposed containers .Exercise caution when fighting any chemical fire .Prevent fire fighting water from entering the environment
+Protection during firefighting: Do not attempt to take action without suitable protective equipment .Complete protective clothing ."Do not enter fire area without proper protective equipment , including respiratory protection
+Special hazards arising from the substance or mixture: Cool adjacent tanks / containers / drums with water jet\] 
+.
+\SPL[Accidental release measures 
+General measures: Mark the danger area .Exposure to fire / heat : consider evacuation .Handle in accordance with good industrial hygiene and safety practice .
+Protective equipment:Wear suitable protective clothing, gloves and eye/face protection. Wear suitable respiratory equipment. Evacuate area. Avoid contact with skin and eyes.
+Emergency procedures:Ventilate area. Evacuate the danger area. If   spillage occurs on the public highway, indicate the danger and notify the authorities (police, fire brigade). Stop leak if   safe to do so. Evacuate unnecessary personnel.
+For emergency responders
+Protective equipment:Wear suitable respiratory equipment. Wear suitable protective clothing, gloves and eye/face protection. Avoid contact with skin and eyes. Equip cleanup crew with proper protection.
+Emergency procedures:Evacuate the danger area. Stop leak if   safe to do so. If   spillage occurs on the public highway, indicate the danger and notify the authorities (police, fire brigade). Ventilate area.
+Environmental precautions
+Prevent entry to sewers and public waters. Avoid release to the environment. Notify authorities if   liquid enters sewers or public waters.
+Methods and material for containment and cleaning up 
+For containment:Dike for recovery or absorb with appropriate material. Stop leak if   safe to do so.
+Methods for cleaning up:Take up liquid spill into absorbent material. This material and its container must be disposed of in a   safe way, and as per local legislation. Soak up spills with inert solids, such as clay or diatomaceous earth as soon as possible. Collect spillage. Store away from other materials.
+Other information:Comply with local regulations for disposal.
+Reference to other sectionsSee Heading 
+Exposure controls and personal protection. For further information refer to section 13\]
+\STR[Handling and storage
+Precautions for safe handling
+Precautions for safe handling:Keep away from sources of ignition -  No smoking. Wash hands and other exposed areas with mild soap and water before eating, drinking or smoking and when leaving work. Do not eat,drink or smoke when using this product. Provide good ventilation in    process area to preventformation of vapour.
+Conditions for safe storage, including any incompatibilities
+Storage conditions:Store tightly closed in    a   dry and cool place. Keep only in    original container. Keep container closed when not in    use.
+Incompatible products:Strong bases. Strong acids.
+Incompatible materials:Sources of ignition. Direct sunlight
+Specific end use(s):No additional information available\]
+
+\EXP[Exposure controls/personal protection
+Control parameters
+No additional information available
+Exposure controls: Appropriate engineering controls:Ensure good ventilation of the work station.
+Personal protective equipment:Gloves. Safety glasses. Protective clothing. Avoid all unnecessary exposure.
+Hand protection:Wear protective gloves.
+Eye protection:Chemical goggles or safety glasses
+Respiratory protection:Wear appropriate mask
+Other information:Do not eat, drink or smoke during use\].
+
+\PRO[Physical and chemical properties
+Information on basic physical and chemical properties
+Physical state:Liquid 
+Colour:Amber red to Brown.
+Odour:characteristic.
+Odour threshold:No data available
+pH:4   -  6
+Relative evaporation rate (butylacetate=1):No data available
+Melting point:No data available
+Freezing point:No data available
+Boiling point:No data available
+Flash point:No data available
+Auto-ignition temperature:No data available
+Decomposition temperature:No data available
+Flammability (solid, gas):No data available
+Vapour pressure:No data available
+Relative vapour density at 20 °C:No data available
+Relative density:1,02 - 1,08
+Solubility:Water: SolubleEthanol: Partially soluble
+Log Pow:No data available
+Viscosity, kinematic:No data available
+Viscosity, dynamic:No data available
+Explosive properties:No data available
+Oxidising properties:No data available
+Explosive limits:No data available\]
+
+\STB[Stability and reactivity
+Reactivity
+Reacts with :  Strong oxidisers.
+Chemical stability
+Stable under normal conditions.
+Possibility of hazardous reactions: Not established.
+Conditions to avoid
+Water, humidity. Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. Direct sunlight. Extremely high or low temperatures.
+Incompatible materials: Strong acids. Strong bases. Strong oxidisers.
+Hazardous decomposition products: Incomplete combustion releases dangerous carbon monoxide, carbon dioxide and other toxic gases. fume. Carbon monoxide. Carbon dioxide\]
+
+\TOX[Toxicological information
+Information on toxicological effects
+Acute toxicity:Not classified
+PROPANEDIOL (504-63-2) LD50 oral rat: 4773 mg/kg
+Skin corrosion/irritation:Not classified
+pH: 4   -  6
+Serious eye damage/irritation:Not classified
+pH: 4   -  6
+Respiratory or skin sensitisation:Not classified
+Germ cell mutagenicity:Not classified
+Carcinogenicity:Not classified
+Reproductive toxicity:Not classified
+STOT-single exposure:Not classified
+STOT-repeated exposure:Not classified
+Aspiration hazard:Not classified\]
+
+\ECO[Ecological information
+Toxicity
+PROPANEDIOL (504-63-2): EC50 Daphnia: 17417 mg/l /48h Daphnia magma
+NOEC chronic fish>  9720 mg/l
+Persistence and degradability: No additional information available
+Bioaccumulative potential: No additional information available
+Mobility in soil: No additional information available
+Results of PBT and vPvB assessment: No additional information available
+Other adverse effects: Additional information:Avoid release to the environment\]
+
+\DIW[Disposal considerations
+Waste treatment methods: Regional legislation (waste):Disposal must be done according to official regulations.
+Waste treatment methods:Comply with local regulations for disposal.
+Product/Packaging disposal recommendations:Dispose in    a safe manner in    accordance with local/national regulations.
+Ecology -  waste materials:Avoid release to the environment\]
+
+\TRA[Transport information
+In accordance with ADR /  RID /  IMDG /  IATA /  ADN1
+UN number
+UN-No. (ADR):Not applicable
+UN-No. (IMDG):Not applicable
+UN-No. (IATA):Not applicable
+UN-No. (ADN):Not applicable
+UN-No. (RID):Not applicable
+UN proper shipping name
+Proper Shipping Name (ADR):Not applicable
+Proper Shipping Name (IMDG):Not applicable
+Proper Shipping Name (IATA):Not applicable
+Proper Shipping Name (ADN):Not applicable
+Proper Shipping Name (RID):Not applicable
+Transport hazard class(es)ADR: Transport hazard class(es) (ADR):Not applicable
+IMDGTransport hazard class(es) (IMDG):Not applicable
+IATATransport hazard class(es) (IATA):Not applicable
+ADNTransport hazard class(es) (ADN):Not applicable
+RIDTransport hazard class(es) (RID):Not applicable
+Packing groupPacking group (ADR):Not applicable
+Packing group (IMDG):Not applicable
+Packing group (IATA):Not applicable
+Packing group (ADN):Not applicable
+Packing group (RID):Not applicable
+Environmental hazards
+Dangerous for the environment:No
+Marine pollutant:No
+Other information:No supplementary information available
+Special precautions for user-  
+Overland transport: Not applicable-  
+Transport by sea: Not applicable-  
+Air transport: Not applicable-  
+Inland waterway transport: Not applicable-  
+Rail transport: Not applicable
+Transport in bulk according to Annex II of Marpol and the IBC Code: Not applicable\]
+
+\RGL[Regulatory information
+Safety, health and environmental regulations/legislation specific for the substance or mixture
+EU-Regulations: Contains no REACH substances with Annex XVII restrictions
+Contains no substance on the REACH candidate list
+Contains no REACH Annex XIV substances
+National regulations: No additional information available
+Chemical safety assessment: No chemical safety assessment has been carried out\]
+
+\MIN[Other information
+Data sources:REGULATION (EC) No 1272/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006.
+Other information:None\]\]
+
+

@@ -1,0 +1,120 @@
+<h2 mat-dialog-title>Family code for {{studentrequestingFC.fname}} {{studentrequestingFC.lname}}</h2>
+<mat-dialog-content class="mat-typography">
+  <div class="dialogcontainer">
+    <mat-vertical-stepper [linear]="isLinear" #stepper>
+      <mat-step [stepControl]="firstFormGroup" *ngIf="data.sibWPC && data.sibWPC.length != 0">
+
+        <ng-template matStepLabel>Do you want to use the same family code as below student ?</ng-template>
+
+
+
+        <table mat-table [dataSource]="sibWPC" class="mat-step-table">
+          <!-- Checkbox Column -->
+          <ng-container matColumnDef="select">
+            <th mat-header-cell *matHeaderCellDef>Select</th>
+            <td mat-cell *matCellDef="let element">
+
+              <!-- <mat-radio-group [(ngModel)]="selectedPerson"> -->
+              <mat-radio-button value="element.studentid" (click)="basedOnStudent(element)"> </mat-radio-button>
+              <!-- </mat-radio-group> -->
+            </td>
+          </ng-container>
+
+          <!-- Student id Column -->
+          <ng-container matColumnDef="studentid">
+            <th mat-header-cell *matHeaderCellDef> Student id </th>
+            <td mat-cell *matCellDef="let element"> {{element.studentid}} </td>
+          </ng-container>
+
+          <!-- Name Column -->
+          <ng-container matColumnDef="name">
+            <th mat-header-cell *matHeaderCellDef> Student name </th>
+            <td mat-cell *matCellDef="let element"> {{element.fname}} {{element.lname}} </td>
+          </ng-container>
+
+          <!-- dob Column -->
+          <ng-container matColumnDef="dob">
+            <th mat-header-cell *matHeaderCellDef> Date of birth </th>
+            <td mat-cell *matCellDef="let element"> {{element.dob | date:'MMM d, yyyy'}} </td>
+          </ng-container>
+
+          <!-- Family code Column -->
+          <ng-container matColumnDef="paymentcode">
+            <th mat-header-cell *matHeaderCellDef> Family code </th>
+            <td mat-cell *matCellDef="let element"> {{element.paymentcode}} </td>
+          </ng-container>
+
+          <tr mat-header-row *matHeaderRowDef="displayedColumnsWPC"></tr>
+          <tr mat-row *matRowDef="let row; columns: displayedColumnsWPC;">
+          </tr>
+        </table>
+
+        <div class="mat-step-action-div">
+          <button mat-button matStepperNext>No, thanks</button>
+          <button mat-button matStepperNext>Next</button>
+        </div>
+
+
+      </mat-step>
+      <mat-step [stepControl]="secondFormGroup" *ngIf="data.sibWOPC && data.sibWOPC.length > 1">
+
+        <ng-template matStepLabel>Select the students you want to assign the same family code</ng-template>
+
+
+        <table mat-table [dataSource]="sibWOPC" class="mat-step-table">
+
+          <!-- Checkbox Column -->
+          <ng-container matColumnDef="select">
+            <th mat-header-cell *matHeaderCellDef>Select</th>
+            <td mat-cell *matCellDef="let row">
+              <mat-checkbox (click)="$event.stopPropagation()" (change)="$event ? selection.toggle(row) : null"
+                [checked]="selection.isSelected(row)">
+              </mat-checkbox>
+            </td>
+          </ng-container>
+
+          <!-- Student id Column -->
+          <ng-container matColumnDef="studentid">
+            <th mat-header-cell *matHeaderCellDef> Student id </th>
+            <td mat-cell *matCellDef="let element"> {{element.studentid}} </td>
+          </ng-container>
+
+          <!-- Name Column -->
+          <ng-container matColumnDef="name">
+            <th mat-header-cell *matHeaderCellDef> Student name </th>
+            <td mat-cell *matCellDef="let element"> {{element.fname}} {{element.lname}} </td>
+          </ng-container>
+
+          <!-- dob Column -->
+          <ng-container matColumnDef="dob">
+            <th mat-header-cell *matHeaderCellDef> Date of birth </th>
+            <td mat-cell *matCellDef="let element"> {{element.dob | date:'MMM d, yyyy'}} </td>
+          </ng-container>
+
+          <tr mat-header-row *matHeaderRowDef="displayedColumnsWOPC"></tr>
+          <tr mat-row *matRowDef="let row; columns: displayedColumnsWOPC;" (click)="selection.toggle(row)">
+          </tr>
+        </table>
+
+
+        <div class="mat-step-action-div">
+          <button mat-button matStepperPrevious>Back</button>
+          <button mat-button matStepperNext>Next</button>
+        </div>
+
+      </mat-step>
+      <mat-step>
+        <ng-template matStepLabel>Done</ng-template>
+        <div class="mat-step-action-div">
+          <label mat-body2 *ngFor="let row of selection.selected"> {{row.fname}} </label> <label> will be assigned
+            family
+            code <strong *ngIf="basedOn">{{basedOn.paymentcode}} </strong></label>
+        </div>
+        <div class="mat-step-action-div">
+          <button mat-button matStepperPrevious>Back</button>
+          <button mat-button (click)="GenerateCode()">Confirm</button>
+        </div>
+      </mat-step>
+    </mat-vertical-stepper>
+  </div>
+</mat-dialog-content>

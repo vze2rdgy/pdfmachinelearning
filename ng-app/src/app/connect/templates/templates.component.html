@@ -1,0 +1,69 @@
+<div class="container">
+  <div class="row">
+    <div class="title">
+
+      <h1 class="main-heading">{{ 'lynx.connect.template.title' | translate }}</h1>
+
+      <span class="spacer"></span>
+
+      <mat-toolbar class="toobar">
+        <!-- <mat-checkbox class="right-margin" [checked]="activeOnly" (change)="activeOnlyValueChange($event)">
+              Active only</mat-checkbox> -->
+        <button mat-stroked-button color="primary" *ngIf="!isEditing && !isSend"> Add template</button>
+        <button mat-stroked-button color="primary" *ngIf="isEditing && !isSend" (click) ="onSave()"> Save template</button>
+        <button class="mgl" mat-stroked-button color="primary" *ngIf="!isEditing && !isSend" (click) ="onSend()"> Send </button>
+      </mat-toolbar>
+    </div>
+  </div>
+
+  <div class="row" *ngIf="isEditing">
+
+    <p class="lead"> {{selectedTemplate.templateName}} </p>
+    <div class="mat-elevation-z8 templateframe">
+      <form role="form" #myForm="ngForm" accept-charset="UTF-8" novalidate>
+        <div class="form-group has-feedback" [ngClass]="{ 'has-error': myckeditor.invalid && myckeditor.touched }">
+          <ckeditor [(ngModel)]="mycontent" #myckeditor="ngModel" name="myckeditor" required debounce="300" readOnly="true"
+            (change)="onChange($event)">
+          </ckeditor>
+          <div *ngIf="myckeditor.invalid && myckeditor.touched" class="help-block">Required field.</div>
+          <div *ngIf="isListVisible">
+            <mat-selection-list role="list">
+              <mat-list-option (click)="onItemSelect(item)" *ngFor="let item of listItems;"> {{item.value}}
+              </mat-list-option>
+            </mat-selection-list>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="row" *ngIf="!isEditing && !isSend">
+    <div class="templateframe">
+      <mat-toolbar class="subtoobar">
+        <!-- <mat-checkbox class="right-margin" [checked]="activeOnly" (change)="activeOnlyValueChange($event)">
+                Active only</mat-checkbox> -->
+        <mat-form-field class="templates">
+          <mat-select placeholder="Select template" (selectionChange)="change($event.value)" [(ngModel)]="selectedTemplate" >
+            <mat-option *ngFor="let templ of templates" [value]="templ">
+              {{templ.templateName}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+        <button mat-stroked-button color="primary" (click)="onEdit()"> Edit template</button>
+      </mat-toolbar>
+
+      <div class="template">
+        <div [innerHTML]="selectedTemplate.templateHtml"></div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="row" *ngIf="isSend">
+    <lynx-sendmessage
+    style="width:100%;"
+    [selectedTemplate]="selectedTemplate"
+    >
+    </lynx-sendmessage>
+  </div>
+</div>

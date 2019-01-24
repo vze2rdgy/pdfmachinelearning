@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>FixedPoint.h</itemPath>
+      <itemPath>GooHash.h</itemPath>
+      <itemPath>GooLikely.h</itemPath>
+      <itemPath>GooList.h</itemPath>
+      <itemPath>GooMutex.h</itemPath>
+      <itemPath>GooString.h</itemPath>
+      <itemPath>GooTimer.h</itemPath>
+      <itemPath>ImgWriter.h</itemPath>
+      <itemPath>JpegWriter.h</itemPath>
+      <itemPath>NetPBMWriter.h</itemPath>
+      <itemPath>PNGWriter.h</itemPath>
+      <itemPath>TiffWriter.h</itemPath>
+      <itemPath>gfile.h</itemPath>
+      <itemPath>glibc.h</itemPath>
+      <itemPath>gmem.h</itemPath>
+      <itemPath>grandom.h</itemPath>
+      <itemPath>gstrtod.h</itemPath>
+      <itemPath>gtypes.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>FixedPoint.cc</itemPath>
+      <itemPath>GooHash.cc</itemPath>
+      <itemPath>GooList.cc</itemPath>
+      <itemPath>GooString.cc</itemPath>
+      <itemPath>GooTimer.cc</itemPath>
+      <itemPath>ImgWriter.cc</itemPath>
+      <itemPath>JpegWriter.cc</itemPath>
+      <itemPath>NetPBMWriter.cc</itemPath>
+      <itemPath>PNGWriter.cc</itemPath>
+      <itemPath>TiffWriter.cc</itemPath>
+      <itemPath>gfile.cc</itemPath>
+      <itemPath>glibc.cc</itemPath>
+      <itemPath>glibc_strtok_r.cc</itemPath>
+      <itemPath>gmem.cc</itemPath>
+      <itemPath>gmempp.cc</itemPath>
+      <itemPath>grandom.cc</itemPath>
+      <itemPath>gstrtod.cc</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="2">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>11</standard>
+        </ccTool>
+        <linkerTool>
+          <output>../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libgoo.${CND_DLIB_EXT}</output>
+        </linkerTool>
+      </compileType>
+      <item path="FixedPoint.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FixedPoint.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooHash.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GooHash.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooLikely.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooList.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GooList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooMutex.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooString.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GooString.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooTimer.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GooTimer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ImgWriter.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ImgWriter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JpegWriter.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="JpegWriter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NetPBMWriter.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NetPBMWriter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PNGWriter.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PNGWriter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TiffWriter.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TiffWriter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gfile.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gfile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="glibc.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="glibc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="glibc_strtok_r.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gmem.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gmem.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gmempp.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="grandom.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="grandom.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gstrtod.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gstrtod.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gtypes.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="3">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+        <archiverTool>
+        </archiverTool>
+      </compileType>
+      <item path="FixedPoint.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FixedPoint.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooHash.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GooHash.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooLikely.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooList.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GooList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooMutex.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooString.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GooString.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GooTimer.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GooTimer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ImgWriter.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ImgWriter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JpegWriter.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="JpegWriter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NetPBMWriter.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NetPBMWriter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PNGWriter.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PNGWriter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TiffWriter.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TiffWriter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gfile.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gfile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="glibc.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="glibc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="glibc_strtok_r.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gmem.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gmem.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gmempp.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="grandom.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="grandom.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gstrtod.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gstrtod.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gtypes.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

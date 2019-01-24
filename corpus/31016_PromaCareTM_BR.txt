@@ -1,0 +1,39 @@
+
+幻灯片 1
+
+
+\SKN|SUN[\COM[UNIPROMA CHEMICAL CO., LIMITED\]
+
+\CON[Tel:    +86 21 3925 4391, 3925 439;
+
++86 21 3925 4393, 3925 4396;
+
+Fax:   +86 21 3925 4397;
+
+Email:   info@uniproma.com
+
+W eb:   www.uniproma.com\]
+
+Uniproma Your True Partner for Sun Care TM
+
+Trade Name:  \TRN[PromaCareTMBR\]
+
+Catalog  Number:  \CAT[31016\]
+
+INCI Name:  \INC[4-Butylresorcinol\]
+
+CAS Number:  \CAS[18979-61-8\]
+
+Dosage:  \USL[\NUM[0.5-1\]\UNT[%\]\]
+
+Properties/Character:  \FOM[Powder\]          
+
+\PRO[Oil soluble\]
+
+Application:  \MOA[Strong inhibitor of \MLT[tyrosinase\] and \MLT[peroxide enzyme\]\];
+
+\CLA[Perfect \BEN[skin whitening\] agent\];
+
+\CLA[A whitening agent of \SKT[dark skin\]\].
+
+\TRN[PromaCareTM\]\]

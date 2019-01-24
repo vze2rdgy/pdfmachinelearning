@@ -1,0 +1,111 @@
+\SKN|TEC[TDS for \INC[α-Arbutin\]
+
+
+\COM[Hubei Artec Biotechnology Co., Ltd\].                 www.artec.cc                   
+__________________________________________________________________________________
+
+Technical Data Sheet for α-Arbutin 
+
+Section 1: Manufacturer information
+
+Name: Hubei Artec Biotechnology Co.,Ltd. 
+\CON[Add: Leiyan Dadao, Leihe, Yicheng, Xiangyang, Hubei, 441400, China 
+Http://www.artec.cc  
+                www.arbutin.com         
+E-mail: arbutin@artec.cc        
+Tel.: 86-710-4393599     
+Fax.: 86-710-4394588 
+Sales phone: 86-710-3125180\]
+
+Section 2: Identification of product
+
+Name: \INC[Alpha-arbutin\] 
+Synonym: \CMN[α-arbutin\] 
+Chemical name: \SCN[hydroquinone-α-D-glucopyranoside\]; \SCN[4-hydroxyphenyl-alpha-D-glucopyranoside\] 
+\CAS[CAS#: 84380-01-8\] 
+Molecule structure: 
+
+    "       
+\CHF[Chemical formula: C12H16O7\] 
+\MOL[Molecular weight: \NUM[272.26\]\UNT[g/mole\].
+
+                                    www.artec.cc __________________________________________________________________________________
+
+
+
+
+
+\PRO[Section 3: Physical and chemical properties
+
+Appearance: \CLR[White\] \FOM[powder\]. 
+Melting point/Melting range:\NUM[203~207\]\UNT[℃\].
+Boiling point/Boiling range: Not available. 
+pH (\NUM[1\]\UNT[%\] soln/water): \NUM[5.0 ~ 7.0\] 
+Decomposition temperature: Not available. 
+Solubility: Soluble in \INC[water\], \SUB[methanol\] or \SUB[alcohol\]. Partially soluble in cold water. Insoluble in \SUB[aether\], 
+\SUB[chloroform\] or \SUB[benzene\]\].
+
+\COA[Section 4: Certificate of analysis
+
+Assay: \NUM[99.0\]\UNT[%\]\UNT[Min\] 
+Melting  point: \NUM[203~206±1\]\UNT[℃\] 
+Clarity of water solution: Transparency, colorless, none suspended matters 
+pH value of 1% aqueous solution: \NUM[5.0～7.0\] 
+Specific optical rotation: [α]D20= +176~184º 
+\IMP[Heavy metal: \NUM[≤10\]\UNT[ppm\] 
+\SUB[Arsenic: \NUM[≤2\] \UNT[ppm\]\] 
+\PRO[Loss on drying: \NUM[≤0.5\]\UNT[%\] 
+\PRO[Ignition  residue: \NUM[≤0.5\]\UNT[%\] 
+\MCR[Pathogen: 
+        \ORG[Bacteria\]: \NUM[≤300\]\UNT[cfu/g\] 
+        \ORG[Fungus\]: \NUM[≤100\]\UNT[cfu/g\]\]
+
+
+Section 5: Usage
+
+\BEN[This product is used as skin lightening agents in the cosmetics, especially in advanced 
+cosmetics which have function of lightening skin, sunscreen and dispelling freckle\]. 
+\USL[Reference addition: \NUM[1.0~3.0\]\UNT[%\]. 
+\CAU[Attention:
+This product may break down in the acidic environment, so the \PRO[pH value\] of cosmetic system should 
+be between \NUM[6.0\] and \NUM[7.0\]. 
+\PRT[The product should be dissolved in the amount of \INC[water\] under \NUM[60\]\UNT[℃\] to prevent the decomposition, 
+and then added to the cosmetic system. 
+This product is soluble in water but the dissolution rate is very slow, should be appropriate to heat 
+up after stirring. 
+Cosmetic system should be added to a few of antioxidants\]  
+It may be harmful to the skin when this product is compatible with other additives that have 
+physiological effects, so the use of cosmetic formulations of this product should be fully studied\].
+
+\PAC[Section 6: Packaging
+
+\NUM[1\]\UNT[kg/bag\], aluminum foil bag and PE bag lining. 
+\NUM[20\]\UNT[bags/drum\], paper fiber drum\].
+
+\STR[Section 7: Storage
+
+Notes:  
+Store away from oxidizing agents. 
+Shield from light. 
+Storage conditions: 
+Keep container tightly sealed. 
+Store in cool, dry conditions in well sealed containers\].
+
+Section 8: Other information
+
+Creat date: 12/10/2014. 
+Update: 12/15/2015. 
+Please ask Hubei Artec Biotechnology Co.,Ltd. if you want the specification of this product, and the 
+number is Q/HBATK07-2014. 
+\DIS[The above information involve our technology secrets about the production of this product, therefor 
+users shall keep it a secret. 
+The above information does not purport to be all inclusive and shall be used only as a guide. Users 
+use this information only as a supplement to other information gathered by them, and should make 
+independent judgement of suitability of this information to ensure proper use. This information is 
+furnished without warranty, and any use of the product not in conformance with this Product 
+Technical Data Sheet, or in combination with any other product or process, is the responsibility of 
+the user\].
+
+�2
+
+http://www.artec.cc/\]

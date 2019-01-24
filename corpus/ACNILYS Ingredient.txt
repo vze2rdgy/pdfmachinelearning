@@ -1,0 +1,326 @@
+\SKN[\TRN[ACNILYS\]  \BEN[OILY SKIN REGULATOR\]
+BALANCE ACNILYS 
+PHYTOBIOACTIVE
+"\DES|ACN[Problem skins gather oily , acne - prone and imperfection - prone skins ."
+"In the 12 - 24 age group , up to 85 % of the population is affected ."
+"In addition of this teenager issue , adult skin also suffers more and more from these imperfections caused by hormones , but also by \STE[pollution , stress or nutrition\] : \RTB[excess and oxidation of sebum\] , \RTB[multiplication of Propionibacterium ( cutibacterium ) acnes\] , \RTB[hyperkeratinization and inflammation\] give to the skin a \BEN[shiny appearance , a thick grain , a complexion blurred by redness and marks\] ..."
+"The face loses clearness , freshness and the psychological feeling can be impacted in accentuated cases ."
+"Moreover these components are linked and acne phenomenon behaves like a vicious circle , each component increasing the other one ."
+It is therefore a chronic and multifactorial pathophysiology requiring a complete action on all identified targets to achieve the balance of healthy and clear skin\] .
+ACTIONS  
+\CLA[Prevents hyperseborrhea  
+Limits P . acnes proliferation  
+Reduces inflammation  
+Promotes moisturization and radiance\]
+
+"EFFICACY ORIGIN 
+\RTB|COP[Based on a bibliographic selection of plant extracts , a biological screening on specific targets allowed GREENTECH Research to identify the berries of Rhodomyrtus tomentosa ."
+"This plant presents potent \PRO[anti - inflammatory , antioxidant and anti - microbial\] properties due to its content in :"
+ Acylphloroglucinols ( rhodomyrtone and derivatives )  
+ Polyphenols ( piceatannol and derivatives )  
+ Organic acids
+Piceatannol
+Rhodomyrtone\]
+
+"COSMETIC BENEFITS 
+\BEN[The skin is less oily and shiny , the pores are refined and tightened ; better moisturized the skin regains radiance and freshness ."
+"Skin imperfections , pimples and redness ease , the complexion becomes smooth again\]
+ ."
+COSMETIC USES 
+\BEN[Oily and combined skin care 
+Corrective products 
+Sensitive and reactive skin formulas 
+Oily hair care\]
+
+Make - up removers and cleansers
+Mattifying care
+
+ACNILYS 
+ACNILYS  is a multifunctional active that acts on pathways involved in oily skin disorders and especially acne .
+Inflammation
+Hyperkeratinization
+Dysseborrhea
+% 02 = 4B
+Hyperseborrhea
+Sebaceous gland
+5 -  - reductase activity
+Hair follicle
+Epidermis
+Dermis
+Hypodermis
+PROVEN EFFICACY
+\VIT[IN VITRO TESTS
+\CLA[ACNILYS  prevents hyperseborrhea\]
+1 1 . 1 \CLA[ACNILYS  REGULATES SEBUM PRODUCTION\]
+1 . 2 \MOA[ACNILYS  INHIBITS 5 -  - REDUCTASE ACTIVITY\]
+y t i s n e t n
+i
+I
+Y P D O B d e z i l a m r o N
+8 7 6 5 4 3 2 1 0
+Control
+Control
+- 33 %
+- 69 %
+*
+ACNILYS 
+Finasteride ( 0 . 0004 %)
+0 . 01 % Testosterone induction
+) l
+m / g  (
+T H D
+40 35 30 25 20 15 10 5 0
+- 52 %
+ACNILYS 
+0 . 1 %
+Control
+Control
+- 48 %
+*
+- 62 %
+ACNILYS 
+Finasteride ( 0 . 0004 %)
+0 . 01 % Testosterone induction
+- 90 %
+**
+ACNILYS 
+0 . 1 %
+"On PCi - Sebocytes derived from human iPSC ( induced pluripotent stem cells ) ( n = 3 ), lipidogenesis induced at D7 by testosterone ( 10M )."
+"Multiple treatment with ACNILYS  at D7 , D8 and D9 and lipid quantification ( BODIPY ) at D11 ."
+* p < 0 . 05 .
+"On PCi - Sebocytes derived from human iPSC ( induced pluripotent stem cells ) ( n = 3 ), lipidogenesis induced at D7 by testosterone ( 10M )."
+"Multiple treatment with ACNILYS  at D7 , D8 and D9 and DHT quantification ( ELISA ) at D11 ."
+"* p < 0 . 05 , ** p < 0 . 01 ."
+"ACNILYS  thus protects from overproduction of sebum , responsible for oily skin appearance ."
+2
+\CLA[ACNILYS  limits P . acnes proliferation\]
+P . acnes
+3 \CLA[ACNILYS  reduces inflammation\] 3 . 1 \MOA[ACNILYS  PROTECTS FROM P . ACNES INDUCED \MLT[IL - 8\] RELEASE\]
+Hyperkeratinization
+Inflammation
+Dysseborrhea
+ACNILYS  0 . 25 % ACNILYS  0 . 50 % ACNILYS  1 . 00 %
+IC50
+- 30 % - 65 %* - 90 %*
+0 . 40 %
+120
+100
+80
+60
+40
+20
+- 19 %
+*
+- 29 %
+**
+i
+) s n e t o r p g  / g p (
+e s a e l e r
+8 - L
+0I
+Control
+ACNILYS  0 . 002 %
+Control
+ACNILYS  0 . 002 %
++ P . acnes lysate ( 3 . 108 CFU )
+"On 105 CFU / mL P . acnes culture ( n = 2 ), evaluation of proliferation ( DO ) after 48h of treatment with ACNILYS ."
+* p < 0 . 05 .
+Propionibacterium acnes subsp .
+acnes ( Phylotypes IA1 ) isolated from acne lesion in human facial skin
+On Normal Human Epidermal Keratinocytes exposed to P . acnes lysate ( n = 3 ).
+24h pre - treatment with ACNILYS  0 . 002 % + 24h co - treatment ACNILYS  0 . 002 % and P . acnes lysate ( 3 . 108 CFU ).
+"* p < 0 . 05 , ** p < 0 . 01"
+"ACNILYS  diminishes P . acnes proliferation , limiting its deleterious effects , including inflammation ."
+ACNILYS  reduces inflammation
+"3 3 . 2 \CLA[ACNILYS  LIMITS THE PRODUCTION OF LIPIDIC MEDIATORS OF INFLAMMATION INDUCED BY OXIDIZED \SUB[SQUALENE\]\] Inflammation is part of the complex biological response of body tissues to harmful stimuli and presents as heat , pain , redness  Inflammation can be classified as either acute or chronic : acute inflammation is the initial response and chronic inflammation corresponds to a prolonged inflammation ."
+This protective response involves immune cells and molecular mediators including lipidic mediators .
+\SUB[Arachidonic acid\] ( AA )
+\SUB[Eicosapentaenoic Acid\] ( EPA )
+\SUB[Docosahexaenoic acid\] ( DHA )
+\MLT[COX and LOX pathways\]
+LOX pathways
+LOX pathways
+Prostaglandins
+( PG )
+Tromboxane
+Lipoxins
+( LX )
+Leukotrienes
+Resolvins E - series
+( RVE )
+Resolvins D - series
+( RVD )
+Protectins
+Maresins
+MEASUREMENT OF LIPID MEDIATORS
+Precursor
+Lipid mediator
+Oxidized squalene (% of induction vs control )
+Oxidized squalene + ACNILYS  0 . 1 %
+(% of protection vs O - SQ )
+AA
+DHA
+EPA
+PGE2 LXA4 RVD2 RVD5 RVE2
++ 59 %* + 424 %* + 122 %*** + 124 %** + 32 %*
+- 71 %*** - 93 %** - 45 %** - 67 %*** - 24 %*
+"On co - cultured dendritic cells and normal human epidermal keratinocytes ( n = 3 ), with PUFA precursor complementation ."
+24h pre - treatment with ACNILYS  0 . 1 % + 3h co - treatment ACNILYS  0 . 1 % and oxidized squalene ( O - SQ ).
+Analysis of lipid mediators by HPLC - MS / MS .
+"* p < 0 . 05 , ** p < 0 . 01 , *** p < 0 . 001 ."
+ACNILYS  prevents from inflammation induced by dysseborrhea\]
+ .
+\VIV[CLINICAL STUDY IN VIVO TESTS
+" ACNILYS  ACTS ON SEBUM PRODUCTION \PRT[Double blind test with 22 female and 20 male ( 18 - 35 years - old ), with oily skin and minimum 5 inflammatory lesions ."
+Twice daily application during 28 days of ACNILYS  2 % versus \ADP[placebo\] ( Two groups of 21 volunteers )\].
+) 0 D / %
+(
+e s o n n o
+m u b e S
+120
+100
+80
+60
+40
+20
+0
+- 45 %
+**
+Control
+ACNILYS 
+Oily skin appearance ( Clinical scoring ) - 69 %***
+ACNILYS 
+ % D0 vs D28 .
+*** p < 0 . 001 vs placebo
+D0
+D28
+Mean  SEM .
+ % D0 vs D28 .
+** p < 0 . 01 vs placebo
+\CLA[ACNILYS  significantly reduces the skin \SUB[sebum\] and \BEN[improves the oily skin appearance\] .
+ ACNILYS  DECREASES INFLAMMATION
+Papules
+Control
+ACNILYS 
+Redness ( forehead + chin )
+120
+100
+) 0 D / %
+80
+60
+(
+s e l u p a p
+f o
+r e b m u 0N
+40
+20
+- 57 %
+**
+D0
+D28
+120
+100
+80
+60
+40
+20
+i
+n h C + d a e h e r o F
+f o s s e n d e
+) 0 D / %
+(
+0R
+- 23 %
+**
+D0
+D28
+Mean  SEM .
+ % D0 vs D28 .
+** p < 0 . 01 vs placebo
+Mean  SEM .
+ % D0 vs D28 .
+** p < 0 . 01 vs placebo
+ACNILYS  limits inflammatory lesions and redness .
+ACNILYS 
+ ACNILYS  IMPROVES GLOBAL ASPECT OF SKIN : MOISTURIZATION AND RADIANCE
+140
+120
+100
+80
+60
+40
+20
+0
+) 0 D / %
+(
+n o i t a r d y H
+Moisturization
++ 18 %
+**
+D0
+D28
+140
+120
+100
+80
+60
+40
+20
+0
+) 0 D / %
+(
+e c n a d a R
+i
+Radiance
++ 19 %
+*
+D0
+D28
+"Mean  SEM ,  % D0 vs D28 , * p < 0 . 05 vs placebo , ** p < 0 . 01 vs p lacebo"
+D0
+D21
+Control
+ACNILYS 
+ACNILYS  Cross - polarized light
+Less inflammatory lesions
+Less oily 100
+80
+60
+40
+20
+0
+Less shiny
+ACNILYS  Parallel - polarized light
+Pores more tightened
+Pores less visible
+Placebo
+ACNILYS 
+"\CLA[ACNILYS  is a multifunctionnal active , which balances oily , acne - prone and blemish skins\]\]."
+
+FORMULATION 
+\USL[Use concentration : 0 . 5 - 2 %\]
+\PRO[pH : 4 . 0 - 6 . 5\]
+"\CAU[Caution for use : Add to emulsions , at the end of the preparation process , either cold or at 35 - 40  C , during cooling\] ."
+
+TECHNICAL DATA Characteristics 
+Organoleptic
+\PRO[Appearance : liquid\] 
+\PRO[Colour : red amber to brown\]
+\PRO[Solubility
+Water soluble ( 10 %) Glycols soluble ( 10 %)\]
+\STR[Storage Keep in a dark place , in the original packaging , at an ambient temperature between 15 and 25  C\] ."
+\TOX[Tests of tolerance  
+Eye irritation : pratically non - irritant  
+Skin irritation : non - irritant  
+Sensitization : very good skin compatibility\]
+\ING[\INC[Aqua / Water\] , \INC[Propanediol\] , \INC[Rhodomyrtus tomentosa Fruit Extract\]\] 
+\PRO[Preservative : None\] 
+\DIS[Warning : The Company cannot assume any liability or risk involved in the use of its technologies and / or ingredients by manufacturers since the conditions of such use are beyond our control .
+We assume no responsibility concerning products which eventually are brought to market and which contain one or several of our ingredients .
+"It is incumbent on the manufacturers of those products to take all necessary precautions and , in particular , to comply with all required legal and regulatory steps and formalities ."
+Please note that this document is not aimed at consumers as the information herein contained does not make reference to consumer products .
+Please note this document is accessible from various countries all over the world and hence it may contain statements or product classification not applicable to your country .
+"The claims made are in reference to ingredients only , hence they do not refer to consumer products ."
+The marketer of any consumer product containing any ingredient is responsible for assuring that the destination of the consumer product and the claims made for the consumer product are lawful and comply with all applicable laws and regulations of the country or countries in which the consumer product is to be sold\]\] .
+"Edition , April 2018"
+\CON[Biople Clermont - Limagne - 63360 St Beauzire - FrancePhone : + 33 4 73 33 99 00 - E - mail : greentech @ greentech . frWeb site : www . greentech . frGermany : info @ greentechgmbh . deBrazil : mapric @ mapric . com . br USA : mmueller @ greentechusainc . com\]

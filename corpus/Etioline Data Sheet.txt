@@ -1,0 +1,134 @@
+\SKN[\TRM[Etioline TM\]
+
+SKIN LIGHTENING - HOMOGENEITY OF SKIN TONE
+
+Function and Characteristics:
+
+\DES[ETIOLINE is a concentrated, purified and standardised 
+
+extract obtained from a rare African plant:  \CMN[Mitracarpe\], of 
+
+Spermacoceae genus.
+
+In Benin, the most original property attributed to 
+
+Mitracarpe leaves lays in the \BEN[treatment of dark spots and 
+
+in skin fading\].
+
+In order to obtain a marked \ADP[synergic effect\], we 
+
+associated \CMN[Mitracarpe\] with \CMN[Bearberry\] (\SCN[Arctostaphylos 
+
+uva ursi\]) extract.
+
+Cosmetic interest (properties):
+
+ETIOLINE is an active ingredient designed for the 
+
+treatment of pigmentary spots and cutaneous  
+
+discolouration problems. Its activity based on \ROS[\REG[African\] 
+
+ethnobotanical experience\] is confirmed by a \MOA[strong 
+
+\MLT[tyrosinase\] inhibitory activity\] \VIT[in vitro and ex vivo\]\].
+
+Applications:
+
+\FOR[Whitening lotions and creams\].
+
+\USL[Recommended use level: \RAN[2 to 5\] \UNT[%\]\]
+
+CTFA / INCI name: 
+
+\ING[\INC[Glycerin\] - \INC[Butylene Glycol\] - \INC[Arctostaphylos Uva Ursi 
+
+Leaf Extract\] - \INC[Mitracarpus Scaber Extract\]\]
+
+\SPE[Specifications:
+
+\PRO[Appearance   : clear liquid\] 
+
+\PRO[Colour  : colourless to pale yellow\]
+
+\PRO[Odour  : characteristic\]
+
+\PRO[pH (10%)  : \RAN[4.5 - 6.0\]\] 
+
+\PRO[Density  : \RAN[1.160 - 1.175\]\] 
+
+\PRO[Refractive index  (at 25°C)  : \RAN[1.440 - 1.450\]\]
+
+\PRO[Water content (K. Fischer)  : \RAN[10 - 20\]\UNT[%\]\]
+
+\MCR[Bacteria   : < \NUM[100\] \UNT[germs/g\]\]
+
+\ORG[Yeast and moulds  : < \NUM[10\] \UNT[germs/g\]\]\]
+
+Sederma patents: \PAT[FR 2 751 874\] - \PAT[WO 98/05299\]
+
+\CON|COM[Sederma
+29 rue du Chemin Vert
+
+78612 Le Perray-en-Ynes Cedex France     Web: www.sederma.fr
+
+Tel. : +33 (0)1 34 84 10 10
+
+Fax : +33 (0)1 34 84 11 30
+
+E-mail: sederma@sederma.fr\]
+
+\VIT[EX VIVOIN VITRO
+
+Inhibitory effect of ETIOLINE on tyrosinase activity:
+
+\MSR[The \MLT[tyrosinase\] inhibition is dose-dependent.
+
+\USL[\NUM[1\]\UNT[%\]\] \TRM[ETIOLINE\] totally inhibits enzyme activity. When \SUB[L-DOPA\] is applied onto the histological slides 
+
+together with ETIOLINE, \SUB[melanin\]  synthesis is 
+
+inhibited (B): no dark colouration is observed.
+
+For the first time, \SUB[melanin\] synthesis inhibition can 
+
+be directly observed on the skin\].
+
+Inhibition of melanin synthesis:
+
+Skin biopsies histologically coloured with  L-DOPA in the 
+
+presence (B) and in the absence (A) of 5% ETIOLINE.
+
+-45%
+
+-77%
+-88%
+
+-99.5%
+
+Control 0.1% 0.2% 0.5% 1.0%
+
+ Etioline Concentration 
+
+A
+
+B
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Residual enzyme activity (%)\]
+
+
+

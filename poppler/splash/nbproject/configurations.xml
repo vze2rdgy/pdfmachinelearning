@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Splash.h</itemPath>
+      <itemPath>SplashBitmap.h</itemPath>
+      <itemPath>SplashClip.h</itemPath>
+      <itemPath>SplashErrorCodes.h</itemPath>
+      <itemPath>SplashFTFont.h</itemPath>
+      <itemPath>SplashFTFontEngine.h</itemPath>
+      <itemPath>SplashFTFontFile.h</itemPath>
+      <itemPath>SplashFont.h</itemPath>
+      <itemPath>SplashFontEngine.h</itemPath>
+      <itemPath>SplashFontFile.h</itemPath>
+      <itemPath>SplashFontFileID.h</itemPath>
+      <itemPath>SplashGlyphBitmap.h</itemPath>
+      <itemPath>SplashMath.h</itemPath>
+      <itemPath>SplashPath.h</itemPath>
+      <itemPath>SplashPattern.h</itemPath>
+      <itemPath>SplashScreen.h</itemPath>
+      <itemPath>SplashState.h</itemPath>
+      <itemPath>SplashTypes.h</itemPath>
+      <itemPath>SplashXPath.h</itemPath>
+      <itemPath>SplashXPathScanner.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Splash.cc</itemPath>
+      <itemPath>SplashBitmap.cc</itemPath>
+      <itemPath>SplashClip.cc</itemPath>
+      <itemPath>SplashFTFont.cc</itemPath>
+      <itemPath>SplashFTFontEngine.cc</itemPath>
+      <itemPath>SplashFTFontFile.cc</itemPath>
+      <itemPath>SplashFont.cc</itemPath>
+      <itemPath>SplashFontEngine.cc</itemPath>
+      <itemPath>SplashFontFile.cc</itemPath>
+      <itemPath>SplashFontFileID.cc</itemPath>
+      <itemPath>SplashPath.cc</itemPath>
+      <itemPath>SplashPattern.cc</itemPath>
+      <itemPath>SplashScreen.cc</itemPath>
+      <itemPath>SplashState.cc</itemPath>
+      <itemPath>SplashXPath.cc</itemPath>
+      <itemPath>SplashXPathScanner.cc</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="2">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>11</standard>
+          <incDir>
+            <pElem>/usr/include/freetype2</pElem>
+          </incDir>
+          <commandLine>-fPIC</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libsplash.${CND_DLIB_EXT}</output>
+        </linkerTool>
+      </compileType>
+      <item path="Splash.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Splash.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashBitmap.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashBitmap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashClip.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashClip.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashErrorCodes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFTFont.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFTFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFTFontEngine.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFTFontEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFTFontFile.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFTFontFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFont.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFontEngine.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFontEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFontFile.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFontFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFontFileID.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFontFileID.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashGlyphBitmap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashMath.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashPath.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashPath.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashPattern.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashPattern.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashScreen.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashScreen.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashState.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashTypes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashXPath.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashXPath.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashXPathScanner.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashXPathScanner.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="3">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+        <archiverTool>
+        </archiverTool>
+      </compileType>
+      <item path="Splash.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Splash.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashBitmap.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashBitmap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashClip.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashClip.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashErrorCodes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFTFont.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFTFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFTFontEngine.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFTFontEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFTFontFile.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFTFontFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFont.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFontEngine.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFontEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFontFile.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFontFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashFontFileID.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashFontFileID.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashGlyphBitmap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashMath.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashPath.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashPath.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashPattern.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashPattern.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashScreen.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashScreen.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashState.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashTypes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashXPath.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashXPath.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashXPathScanner.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashXPathScanner.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

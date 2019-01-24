@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{e430bea0-48b6-4fe7-a309-ef613cf87bc9}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>core\tools\PopplerReader.py</StartupFile>
+    <SearchPath>data;tools;utils;tests</SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Web launcher</LaunchProvider>
+    <InterpreterId>MSBuild|commonenv|$(MSBuildProjectFullPath)</InterpreterId>
+    <IsWindowsApplication>False</IsWindowsApplication>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
+    <WebBrowserUrl>http://localhost:5000</WebBrowserUrl>
+    <Name>icclap</Name>
+    <PublishUrl>ftp://iclapadm@sgdev/iclap</PublishUrl>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="core\autotaggers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\BGConfig.py" />
+    <Compile Include="core\corpusgens.py" />
+    <Compile Include="core\corpusreaders.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\data\common_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\data\user_models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\data\user_models_marsh.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\fileconverters.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\FileMonitor.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\classifiers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\PopplerReader.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="flask_bp_search.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="flask_bp_suppliers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="testrun.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tests\dbtests.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tests\storedbwithcorpusdata.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tests\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\ComplementNB.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\UserSession.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\Application.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bgstarter.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\BackgroundSession.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\data\api.py" />
+    <Compile Include="core\data\models.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\data\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\exceptions\AuthenticationError.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\exceptions\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="search.py" />
+    <Compile Include="core\SessionAbstract.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\BinaryClassifier.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\ClassifierMixin.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\CorpusPedigree.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\DBManager.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\SMEstimatorBase.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\PDFToTextConverter.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\SMAutomatedTagger.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\SMBinaryNLTKClassifier.py" />
+    <Compile Include="core\tools\SMCorpusClassifier.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\SMCorpusLineReader.py" />
+    <Compile Include="core\tools\SMCorpusDocumentReader.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\SMDocumentClassifier.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\SMPhraseAccuracyResult.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\SMPipeLine.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\SMSentExtractor.py" />
+    <Compile Include="core\tools\TagSet.py" />
+    <Compile Include="core\tools\PedigreeVisualizer.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\tools\__init__.py" />
+    <Compile Include="core\UserSessionTypes.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\utils\pickleutils.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="core\utils\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="webapi\auth_handler.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="webapi\data_access_handler.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="webapi\models\base_response.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="webapi\models\exceptions.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="webapi\flask_bp_webapi.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="webapi\models\user_context.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="webapi\module1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="webapi\__init__.py" />
+    <Compile Include="WebConsts.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="webstarter.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="core\data\" />
+    <Folder Include="core\exceptions\" />
+    <Folder Include="core\" />
+    <Folder Include="static\ng\" />
+    <Folder Include="static\ng\assets\" />
+    <Folder Include="static\ng\assets\i18n\" />
+    <Folder Include="static\ng\assets\i18n\examples\" />
+    <Folder Include="static\ng\assets\i18n\students\" />
+    <Folder Include="webapi\" />
+    <Folder Include="static\" />
+    <Folder Include="static\content\" />
+    <Folder Include="static\fonts\" />
+    <Folder Include="static\images\" />
+    <Folder Include="static\scripts\" />
+    <Folder Include="templates\" />
+    <Folder Include="templates\suppliers\" />
+    <Folder Include="templates\search\" />
+    <Folder Include="tests\" />
+    <Folder Include="core\utils\" />
+    <Folder Include="core\tools\" />
+    <Folder Include="webapi\models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ErrorCodes.txt" />
+    <Content Include="requirements.txt" />
+    <Content Include="static\content\bootstrap.css" />
+    <Content Include="static\content\bootstrap.min.css" />
+    <Content Include="static\content\site.css" />
+    <Content Include="static\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="static\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="static\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="static\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="static\images\Logo.png" />
+    <Content Include="static\ng\3rdpartylicenses.txt" />
+    <Content Include="static\ng\5.8d2deca3d4d102ceac6d.js" />
+    <Content Include="static\ng\6.e968916dbe1624d19563.js" />
+    <Content Include="static\ng\7.20253073db87791804f9.js" />
+    <Content Include="static\ng\8.0b674b9a618b38d0bdb1.js" />
+    <Content Include="static\ng\assets\i18n\de.json" />
+    <Content Include="static\ng\assets\i18n\en.json" />
+    <Content Include="static\ng\assets\i18n\es.json" />
+    <Content Include="static\ng\assets\i18n\examples\de.json" />
+    <Content Include="static\ng\assets\i18n\examples\en.json" />
+    <Content Include="static\ng\assets\i18n\examples\es.json" />
+    <Content Include="static\ng\assets\i18n\examples\examples.babel" />
+    <Content Include="static\ng\assets\i18n\examples\fr.json" />
+    <Content Include="static\ng\assets\i18n\examples\pt-br.json" />
+    <Content Include="static\ng\assets\i18n\examples\sk.json" />
+    <Content Include="static\ng\assets\i18n\fr.json" />
+    <Content Include="static\ng\assets\i18n\main.babel" />
+    <Content Include="static\ng\assets\i18n\pt-br.json" />
+    <Content Include="static\ng\assets\i18n\sk.json" />
+    <Content Include="static\ng\assets\i18n\students\de.json" />
+    <Content Include="static\ng\assets\i18n\students\en.json" />
+    <Content Include="static\ng\assets\i18n\students\es.json" />
+    <Content Include="static\ng\assets\i18n\students\fr.json" />
+    <Content Include="static\ng\assets\i18n\students\pt-br.json" />
+    <Content Include="static\ng\assets\i18n\students\sk.json" />
+    <Content Include="static\ng\assets\i18n\students\students.babel" />
+    <Content Include="static\ng\assets\intro.jpg" />
+    <Content Include="static\ng\assets\intro11.jpg" />
+    <Content Include="static\ng\assets\intrSo.jpg" />
+    <Content Include="static\ng\assets\localhost_5000_search_%28Laptop with touch%29.png" />
+    <Content Include="static\ng\assets\logo.png" />
+    <Content Include="static\ng\assets\release-butler.png" />
+    <Content Include="static\ng\assets\upload files.png" />
+    <Content Include="static\ng\index.html" />
+    <Content Include="static\ng\intro.c6c334e96587bc62f046.jpg" />
+    <Content Include="static\ng\logo.d766b84866c84bcefb69.png" />
+    <Content Include="static\ng\main.e371bb4c1b8aada8005a.js" />
+    <Content Include="static\ng\polyfills.057e1fec35d4b72ecb4a.js" />
+    <Content Include="static\ng\release-butler.3325924a05cecb62cfd1.png" />
+    <Content Include="static\ng\runtime.b5d20e5c80fc4dd9cca0.js" />
+    <Content Include="static\ng\styles.b39067bf895ef5731af1.css" />
+    <Content Include="static\ng\vendor.21f4b692179af70f16f5.js" />
+    <Content Include="static\scripts\bootstrap.js" />
+    <Content Include="static\scripts\bootstrap.min.js" />
+    <Content Include="static\scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="static\scripts\jquery-1.10.2.js" />
+    <Content Include="static\scripts\jquery-1.10.2.min.js" />
+    <Content Include="static\scripts\jquery-1.10.2.min.map" />
+    <Content Include="static\scripts\jquery.validate-vsdoc.js" />
+    <Content Include="static\scripts\jquery.validate.js" />
+    <Content Include="static\scripts\jquery.validate.min.js" />
+    <Content Include="static\scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="static\scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="static\scripts\modernizr-2.6.2.js" />
+    <Content Include="static\scripts\respond.js" />
+    <Content Include="static\scripts\respond.min.js" />
+    <Content Include="static\scripts\_references.js" />
+    <Content Include="templates\about.html" />
+    <Content Include="templates\contact.html" />
+    <Content Include="templates\frontlayout.html" />
+    <Content Include="templates\home.html" />
+    <Content Include="templates\index_supplier.html" />
+    <Content Include="templates\index.html" />
+    <Content Include="templates\layout_discard.html" />
+    <Content Include="templates\pagelayout.html" />
+    <Content Include="templates\searchresult.html" />
+    <Content Include="templates\search\search.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="..\..\..\commonenv\">
+      <Id>commonenv</Id>
+      <Version>3.6</Version>
+      <Description>commonenv (Python 3.6 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>

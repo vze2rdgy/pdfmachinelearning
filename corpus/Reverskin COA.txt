@@ -1,0 +1,40 @@
+\SKN|SPE[SPECIFICATION DATA SHEET
+\CON[e  mail : greentech @ greentech . fr
+Biople Clermont  Limagne
+63 360 Saint  Beauzire  FRANCE
+Tel : 33 04 73 33 99 00
+Fax : 33 04 73 33 91 32\]
+\STR[Good for 24 months. Keep in the original packaging , without opening , in the recommended storage conditions. Agitation advised before use.
+STORAGE : room temperature ( 15 - 25  C )\] 
+
+\ING[\INC[Microsorum grossum leaf\]  \INC[Natural propylen glycol\] \INC[Water\]\]
+
+\PRO[Aspect GT001 Liquid
+Color GT002 Amber to dark brown
+Odor GT003 Characteristic
+Solubility 10 % in water GT004 Soluble 
+Solubility 10% in ethanol GT004 Partially soluble
+pH (direct) GT005 4.6-6.6
+Dry matter (%) GT006 5.0-7.0
+Refraction index GT007 1.370-1.410
+Density GT008 1.010-1.060\]
+
+\MCR[MICROBIOLOGICAL ANALYSIS
+Total germs(cfu/mL) GT100 <100
+Yeasts and moulds(cfu/mL) GT101 <100
+Enterobacteria(cfu/mL) GT102 Absence\]\]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

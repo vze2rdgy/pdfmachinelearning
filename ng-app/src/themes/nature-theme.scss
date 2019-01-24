@@ -1,0 +1,9 @@
+$lynx-nature-primary: mat-palette($mat-brown, 700, 300, 900);
+$lynx-nature-accent: mat-palette($mat-deep-purple, 300);
+$lynx-nature-warn: mat-palette($mat-red, 600);
+
+$lynx-nature-theme: mat-light-theme(
+  $lynx-nature-primary,
+  $lynx-nature-accent,
+  $lynx-nature-warn
+);

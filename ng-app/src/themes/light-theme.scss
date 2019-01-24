@@ -1,0 +1,9 @@
+$lynx-light-primary: mat-palette($mat-grey, 200, 500, 300);
+$lynx-light-accent: mat-palette($mat-brown, 200);
+$lynx-light-warn: mat-palette($mat-deep-orange, 200);
+
+$lynx-light-theme: mat-light-theme(
+  $lynx-light-primary,
+  $lynx-light-accent,
+  $lynx-light-warn
+);

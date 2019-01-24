@@ -1,0 +1,108 @@
+\SKN|SDS[MATERIAL SAFETY DATA SHEET 
+\TRN[ALOE GLYCOLIC EXTRACT\]
+\CON[Supplier GREENTECH S.A.Biopôle Clermont-Limagne63360 Saint Beauzire - FRANCETéléphone :   33 4 73 33 99 00Fax        :   33 4 73 33 91 32e-mail        :  greentech@greentech.fr\]
+\HZI[HAZARDOUS  IDENTIFICATION
+Hazard designation :No special dangers are known
+Special indications concerning the dangers for the human and environment:No special danger mentioned. Nevertheless, ensure that information featured in these safety guidelines are respectedRespect conditions of storage and use\]
+\COP[COMPOSITION DATA ON COMPONENTS
+\INC[Propylene Glycol\] CAS 57-55-62 EINECS 00-338-0
+\INC[Water\] CAS 7732-18-52 EINECS 31-791-2
+\INC[Aloe Ferox Leaf Extract\] CAS 84649-82-12 EINECS 83-462-8
+Aloe Ferox pre registrated REACH n° 05-2114658026-49-0000\]
+\FAM[FIRST AID MEASURES
+Excessive inhalation :breath on fresh air. In case of sickness, seek medical advice.
+Skin  contact : wash  abundantly  with  soap  and  water.Remove  contaminated  clothing.In  case  of  persistent  cutaneous reactions, seek medical advice.
+Eye  contact :Rinse  abundantly with water or an  eyewash solution for at least 15 minutes holding the  eyelids open.  If irriatation persist, seek medical advice.
+Ingestion : Rinse the mouth out with water. Do not induce vomiting, and if you feel unwell, seek medical advice.Ingestion warrants gastric lavage and activated charcoal. Treatment is symptomatic.In general, in case of uncertanly or if symtoms are shown, always seek medical advice\]
+\FIR[MEASURES  IN CASE  OF FIRE5.
+Suitable extingushing media :Carbon dioxide, water foam, dry chemical powder, water mist or in fine droplets, Use rather stable alcohol resistant foam, general purpose synthetic foam. Do not use water jet.
+Special  risks :The smoke may  contain the general product and  products of  combustion of varying composition which may be toxic or irritant.
+Special protective equipment :Avoid breathing released fumes or vapours.  In case of insufficient ventilation, wear suitable respiratory equipment. Cool down the containers with pulverised water from a secure distance\]
+\SPL[MEASURES BY ACCIDENTAL SPILLAGE/LEAKAGE
+Individual precautions : Isolate the zone.Do not inhale the vapours.  Use in a well-ventilated room. Wear gloves and safety goggles when handling leakages. Follow general hygiene procedure in case of accidental spillage.
+Environmental precautions : Avoid all ground and surface water contamination Control the product through by covering with an inert absorbent substance. If the product comtaminates into water, river or swearage systems, warns the locol authroties according to regulation procedures.
+Cleaning proceduress :Collect with absorbent materials. Contain and collect all leakages with inert non-combustible material  into  a  waste  container  for  proper  disposal  according  to  current  regulations.  Clean  the  floor  preferably  with  water  and/or detergent. Avoid the use of solvents.For large spillages, keep within a contained area and collect into suitable and appropriately labelled containers\]
+\STR[HANDLING AND  STORAGE
+Handling :Use in well ventilated areas.  
+Storage  :It  is  recommended  to  store  the  product  in  original  sealed  and  full  containers  in  a  well-ventilated  area,  away from the light and from sources of heat.7.3.Storageat ambient temperature (22°)\]
+\EXP[EXPOSURE CONTROLS/INDIVIDUAL PROTECTION
+Exposition:Maintain a well adapted ventillation.
+Individual protection equipment: Avoid prolong contact with skin and eyes. To prevent from possible projections, wear suitable gloves and safety goggles.
+Hygiene measure:Remove all contaminated clothing. Wash your hand afterwards\]
+
+\PRO[PHYSICAL AND CHEMICAL PROPERTIES
+Appearance Liquid, brown
+Odour Characteristic
+pH 4.0-5.5
+Boiling point Not determinated
+Melting point Not applicable
+Flash point Not determinated
+Ignition temperature Not determinated
+Auto-ignition temperature Not determinated
+Explosion limits Not determinated
+Vapour pressure Not determinated
+Density 1.080-1.110
+Solubility in water (sol 10%) Not determinated
+Solubility in alcohol (sol 10%) Not determinated
+Distribution coefficient (n-octanol / water) Not determinated
+Viscosity Not determinated
+Temperature of decomposition Not determinated\]
+
+\STB[STABILITY AND REACTIVITY
+Conditions to avoid :the product can decompose in high temperature.
+Material to avoid :Oxidizing agents
+Hazardous decomposition products  :None
+Other data : The product do not decompose if used in conforment to the prescription\]
+
+\TOX[TOXICITY  INFORMATION
+Acule Toxicity Not determinated
+Eye Irritation Slightly irritant
+Skin irritation Not irritant
+Sensitivity Not determinated
+Phototoxicity Not determinated
+Effetct mutagenic on the germinal cells Not determinated
+Carcinogenc Not determinated
+Reproductive toxicity Not determinated
+Certain    organs    target    toxicity    (exposition unique) Not determinated
+Certain   organs   target   toxicity   (exposition repeat) Not determinated
+Danger of aspiration Not determinated\]
+
+\ECO[ECOLOGICAL INFORMATION
+This preparation has not been submitted to ecotoxicological tests. Within handlings and suitable uses, no ecological problem should appear on the enironment.
+Ecotoxicological data of Propylene Glycol Biodégradability (OECD 301B): easily biodegradeable
+Ecotoxicity 
+Acute Fish Toxicity LC50 (96h) ≥ 10000mg/l Poecilia reticulata
+Daphnia ToxicityEC50 (48h) = 26500 mg/l Daphnia magna
+Chronic Algae Toxicity Not determinated
+Bacteria Toxicity Not determinated\]
+
+\DIW[RECOMMENDED DISPOSAL PROCEDURES
+According to community, national or local regulations in force\]
+
+\TRA[TRANSPORT INFORMATION
+Custom Code : N° 13 02 19 80 0000 E
+Land transport ADR Not considered as dangerous 
+Maritime Transport IMDG Not considered as dangerous 
+Air transport IATA Not considered as dangerous\] 
+
+\RGL[REGULATORY INFORMATION
+Not classified as a hazardous producT\]
+
+\MIN[OTHER  INFORMATION This information is based on our present knowledge and is supplied for proper and safehandling of our product. The above mentioned data can not be considered as a product specificatioN\]\]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

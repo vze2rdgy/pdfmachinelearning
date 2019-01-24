@@ -1,0 +1,532 @@
+\SKN[CELLACTIVE®-WHITE (KM0200010000100015)
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Technical Datasheet 
+ 
+
+\TRM[CELLACTIVE®\]-WHITE 
+
+ 
+Page 1 of 6 
+
+ 
+ 
+
+\CON[RAHN AG     CH-8050 Zürich    Dörflistrasse 120     T +41 44 315 42 00     F +41 44 315 42 70     www.rahn-group.com\] 
+
+ 
+
+1. Application and Storage 
+ 
+
+Category  \BEN[Whitening/Skin Lightening\] 
+
+\REG[Country of Origin  CH\] 
+
+Notes  \DES[\TRM[CELLACTIVE®\]-WHITE contains ingredients of natural origin. A slight precipitation may occur 
+
+over time. Colour may vary from batch to batch. 
+
+Nature of Raw Materials 
+
+ The raw materials used to manufacture the cosmetic active ingredient are of 
+
+plant/synthetic/biotechnological origin. The active ingredient contains no compounds of 
+
+animal origin. No mineral oils were used in manufacture\]. 
+
+Processing / 
+
+Areas of Application 
+
+ \PRD[Skin lightening products for \BOP[face\] and \BOP[body\]. Suitable for use in \LON[emulsions O/W and W/O\] 
+
+and in \LON[gels\]\]. \PRO[\TRM[CELLACTIVE®\]-WHITE is water soluble and should be processed at temperatures 
+
+< \NUM[50\]\UNT[°C\] and at a pH value < \NUM[7\]\]. 
+
+\USL[Recommended Use Level  \NUM[3 - 10\]\UNT[%\]\] 
+
+\STR[Shelf Life  \DUR[36 months\] after production date 
+
+Storage Condition  Temp. \NUM[15\]\UNT[°C\] - \NUM[22\]\UNT[°C\], dry place, protected from light (STC 3A)\] 
+
+\SPE[Specification  Test Point Specification 
+
+  \PRO[Appearance Clear, \CLR[yellow-greenish\] liquid 
+
+  \PRO[Odour Characteristic\] 
+
+  \PRO[Refraction Index \NUM[1.350 – 1.390\] 
+
+  \PRO[Density \NUM[0.990 – 1.030\] \UNT[g/ml\] 
+
+  \PRO[pH-Value \NUM[4.5 – 6.5\]\] 
+
+  \MCR[Total Plate Count < \NUM[100\] \UNT[CFU/g\] 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Technical Datasheet 
+ 
+
+\TRM[CELLACTIVE®\]-WHITE 
+
+ 
+Page 2 of 6 
+
+ 
+ 
+
+\CON[RAHN AG     CH-8050 Zürich    Dörflistrasse 120     T +41 44 315 42 00     F +41 44 315 42 70     www.rahn-group.com\] 
+
+ 
+
+2. Registration 
+
+INCI-\REG[EU\]  \ING[\INC[Aqua\], \INC[Alcohol Denat.\], \INC[Niacinamide\], \INC[Zinc PCA\], \INC[Chlorella Vulgaris/Lupinus Albus Protein 
+
+Ferment\], \INC[Nasturtium Officinale Flower/Leaf Extract\]\] 
+
+INCI-\REG[USA\]  \ING[\INC[Water\], \INC[Alcohol Denat.\], \INC[Niacinamide\], \INC[Zinc PCA\], \INC[Chlorella Vulgaris/Lupinus Albus Protein 
+
+Ferment\], \INC[Nasturtium Officinale Flower/Leaf Extract\]\] 
+
+INCI-\REG[Japan\]  \ING[\INC[Onsen-Sui\], \INC[Alcohol Denat.\], \INC[Niacinamide\], \INC[Zinc PCA\], \INC[Chlorella Vulgaris/Lupinus Albus Protein 
+
+Ferment\], \INC[Nasturtium Officinale Flower/Leaf Extract\]\] 
+
+Details of Contents  INCI-US Content in % CAS-No. EINECS-No. 
+
+  Water >  50 7732-18-5 231-791-2 
+
+  Alcohol Denat.     10 - 25 64-17-5 200-578-6 
+
+  Niacinamide     5 - 10 98-92-0 202-713-4 
+
+  Zinc PCA     1 - 5 15454-75-8 239-473-5 
+
+  
+Chlorella Vulgaris/Lupinus Albus 
+
+Protein Ferment 
+
+    0.1 - 1 999999-99-4 310-127-6 
+
+  
+Nasturtium Officinale Flower/Leaf 
+
+Extract 
+
+    0.1 - 1 84775-70-2 283-899-4 
+
+ 
+
+ 
+
+\HTS[Customs Tariff No.  382490 (harmonised system)\] 
+
+\RGL[\REG[EU\] Cosmetic Regulation: The product is in compliance with Regulation \NUM[(EC) No. 1223/2009\]. 
+
+\PRO[Preservatives  \NUM[0\] \UNT[%\]\] 
+
+\RGL[REACH  The product is in compliance with Regulation \NUM[(EC) No. 1907/2006\] and is free of SVHC's 
+
+(according to the current SVHC Candidate List)\]. 
+
+\RGL[Registration  All raw materials are approved in: \REG[CN\],\REG[EUROPE\],\REG[JP\],\REG[US\] 
+
+\REG[CN\]: ask for separate statement\]. 
+
+Sourcing Continent 
+
+Active Ingredients 
+
+ INCI-US Continent of Origin 
+
+  \ORI[\INC[Niacinamide\] \REG[Asia\]\] 
+
+  \ORI[\INC[Zinc PCA\] \REG[Asia\]\] 
+
+  \ORI[\INC[Chlorella Vulgaris/Lupinus Albus Protein Ferment\] \REG[Asia\],\REG[Europe\]\] 
+
+  \ORI[\INC[Nasturtium Officinale Flower/Leaf Extract\] \REG[Europe\]\] 
+ 
+
+  
+  
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Technical Datasheet 
+ 
+
+\TRM[CELLACTIVE®\]-WHITE 
+
+ 
+Page 3 of 6 
+
+ 
+ 
+
+\CON[RAHN AG     CH-8050 Zürich    Dörflistrasse 120     T +41 44 315 42 00     F +41 44 315 42 70     www.rahn-group.com\] 
+
+ 
+
+3. \TOX[Toxicology 
+ 
+
+  Test Point Method Result 
+
+Toxicology  Oral Toxicity Bibliographical References Not toxic 
+
+  Dermal Irritation Human Patch Test, undiluted, on 50 
+
+people 
+
+Not irritating 
+
+  Eye Irritation OECD No. 437: BCOP-Test, undiluted Slightly irritating 
+
+  Sensitisation Rep. Human Patch Test, undiluted, on 
+
+30 people 
+
+Not sensitising 
+
+  Phototoxicity Photo Patch Test, undiluted, on 50 
+
+people 
+
+Not phototoxic 
+
+  Mutagenicity OECD No. 471: Bacterial Reverse Muta-
+
+tion Test (AMES) in E. coli and S. ty-
+
+phimurium 
+
+Not mutagenic 
+
+Ecotoxicology  Biodegradability OECD No. 301F: Ready Biodegradabili-
+
+ty 
+
+Readily biodegradable 
+
+  Daphnia Toxicity OECD No. 202: Daphnia sp. Acute 
+
+Immobilisation Test (Limit Test; 100 
+
+mg/l, 48 h) 
+
+Not toxic 
+
+  Water Hazard Self-categorisation according to 
+
+VwVwS (Germany only) 
+
+Water hazard class 1 
+
+Safety Assessment 
+
+(Annex I of Regulation 
+
+(EC) No. 1223/2009) 
+
+ Exposure assess-
+
+ment (based on a 
+
+conservative expo-
+
+sure scenario: i.e. 
+
+body lotion contai-
+
+ning maximal use 
+
+level of 10 %) 
+
+Evaluation of the toxicological profile 
+
+of the ingredients with emphasis on 
+
+MoS calculation (based on NOAEL) by 
+
+independent, qualified safety assessor. 
+
+All ingredients, and conse-
+
+quently the product, can 
+
+be considered as safe for 
+
+designated use in finished 
+
+cosmetic products, provi-
+
+ded the recommended use 
+
+levels are respected. Detai-
+
+led report available upon 
+
+request. \]
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Technical Datasheet 
+ 
+
+CELLACTIVE®-WHITE 
+
+ 
+Page 4 of 6 
+
+ 
+ 
+
+RAHN AG     CH-8050 Zürich    Dörflistrasse 120     T +41 44 315 42 00     F +41 44 315 42 70     www.rahn-group.com 
+
+ 
+
+4. Flow Chart 
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Technical Datasheet 
+ 
+
+CELLACTIVE®-WHITE 
+
+ 
+Page 5 of 6 
+
+ 
+ 
+
+RAHN AG     CH-8050 Zürich    Dörflistrasse 120     T +41 44 315 42 00     F +41 44 315 42 70     www.rahn-group.com 
+
+ 
+
+5. \DIS[Various Statements 
+ 
+
+Animal Tests 
+
+ 
+
+The product has not been tested on animals.  
+
+ 
+
+From 11th September 2004, RAHN AG, its agents and its suppliers have performed the 
+
+following animal testing during development and safety assessment of the product and its 
+
+ingredients, including any animal testing to meet the legislative or regulatory requirements 
+
+of third countries: 
+
+  Year Purpose Tested Component 
+
+  - - - 
+
+BSE  The product is free from substances of bovine origin. 
+
+CMR  The product is free from substances classified as carcinogenic, mutagenic or toxic for re-
+
+production (CMR) of category 1A, 1B or 2 under Part 3 of Annex VI to Regulation (EC) No 
+
+1272/2008. 
+
+Gluten  The product can be considered as ''gluten-free'' as it does not contain ingredients derived 
+
+from corn (e.g. wheat, rye or barley). 
+
+GMO  The product neither contains genetically modified organisms nor ingredients which are 
+
+produced from genetically modified organisms. 
+
+Halal  The product is not suitable for halal certified cosmetics. 
+
+Irradiation  Neither the product nor its ingredients were treated with ionising radiation during or after 
+
+the manufacturing process. 
+
+Kosher  The product is not suitable for kosher certified cosmetics. 
+
+Nanomaterial  The product is free from substances defined as nanomaterial under Article 2 Paragraph 1 
+
+(k) of Regulation (EC) No. 1223/2009. 
+
+Palm Oil  The product does not contain palm oil, palm kernel oil or palm (kernel) oil derivatives. 
+
+Production  The manufacturing of the product is in accordance to Cosmetic GMP, i.e. ISO 22716:2007 
+
+or equivalent guidelines. 
+
+Vegan  The product is suitable for vegan certified cosmetics\]. 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Technical Datasheet 
+ 
+
+CELLACTIVE®-WHITE 
+
+ 
+Page 6 of 6 
+
+ 
+ 
+
+RAHN AG     CH-8050 Zürich    Dörflistrasse 120     T +41 44 315 42 00     F +41 44 315 42 70     www.rahn-group.com 
+
+ 
+
+6. Impurities 
+ 
+
+   Method Result 
+
+\IMP[\SUB[Allergens\]   \INS[GC/MS\] \MSR[Did not contain any of the \NUM[26\] \SUB[allergenic\] substances described in the Cosmetic Regulation\].  
+
+\SUB[Heavy Metal\]   \PRT[DIN 38406 E29 (As, Pb, Cd, Cu, Hg)\] \MSR[\SUB[Heavy metal\] content was below detection limit,except \NUM[0.02\] \UNT[ppm\] Cu\]. 
+
+\SUB[Pesticides\]   \PRT[§35 LMBG L00.00-34 (DFG S-19)\] \MSR[\SUB[Pesticide\] content was 
+
+below detection limit\].  
+
+\SUB[Residual Solvents\]   \PRT[ICH Guideline for Residual Solvents 
+
+Q3C(R5), Appendix 1\] 
+
+\MSR[Does not contain any (resi-
+
+dual) solvents, except  
+
+\NUM[10 – 25\] \UNT[%\] \SUB[Alcohol Denat.\] 
+
+ 
+
+ 
+
+Barbara Obermayer, Head of RAHN-Cosmetic Actives 
+
+ 
+ 
+
+Zurich 
+
+01-Sep-2015 
+
+ 
+
+\DIS[Disclaimer 
+
+Utilisation of this document or parts thereof as well as product names for commercial or industrial applications is subject to explicit written approval 
+
+by RAHN AG. This information is based on our own experience to date and we believe it to be reliable. It is intended only as a guide to use at your 
+
+discretion and risk. We cannot guarantee favourable results and we assume no liability in connection with its use, or the use of the methods or 
+
+products described. None of this information is to be taken as a license to operate under, or a recommendation to infringe, patents. 
+
+Version: 09/2015\]\]

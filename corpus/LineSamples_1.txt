@@ -1,0 +1,61 @@
+\NON[
+\CLA[Helps stimulate \MOA[cell regeneration\] and build \SUB[collagen\]\]
+\CLA[Diminishes the appearance of \BEN[fine lines\], \BEN[wrinkles\] and \BEN[age spots\]\]
+\CLA[Suitable for \BEN[blemished\], \BEN[wrinkled\] and sun damaged skin\]
+\CLA[Paraben-Free\]
+\CLA[\BEN[Skin-refining\] \PRD[gel\] foaming \ROF[cleanser\]\] 
+\CLA[removes impurities, excess \SUB[oils\] and \LON[make up\]\]
+\CLA[Clarifies the skin and smoothes out \BEN[rough texture\]\]
+\CLA[ideal for \SKT[combination or oily skin\]\]
+\CLA[Oil-free, \BEN[moisture\]-enhancing \PRD[gel\]\]
+\CLA[Leaves skin feeling \BEN[supple\] and \BEN[smooth\]\]
+\CLA[Contains \SUB[Hyaluronic acid\]\] 
+\CLA[Suitable for all \SKT[skin types\]\]
+\CLA[Contains \SUB[vitamin B5\] to help with \MOA[tissue repair\] and replenish \SUB[nutrients\]\]
+"\CLA[Binds \BEN[moisture\] to the skin with \SUB[hyaluronic acid\], a natural humectant\]"
+\CLA[Improves skin \BEN[firmness\] & \BEN[elasticity\]\]
+\CLA[Increases skin \BEN[hydration\] and \BEN[plumpness\]\]
+\CLA[Contains \SUB[Hyaluronic acid\]\] 
+\CLA[Suitable for all \SKT[skin types\]\]
+\CLA[Increases skin’s \SUB[hyaluronic acid\] levels by \NUM[30\]\UNT[%\]\]
+\CLA[Diminish the look of \BEN[crow’s feet\], \BEN[nasolabial folds\] and \BEN[marionette lines\] for \BEN[smoother\], \BEN[firmer\] skin\].
+\CLA[Releases long lasting \BEN[hydration\] to visibly improve \BEN[skin’s texture\]\]
+\CLA[Unique \PRD[serum-gel texture\] formula forms a \BEN[smooth canvas\] on skin\]
+\CLA[\SUB[Paraben\]- and \SUB[dye\]-free, ideal for all \SKT[skin types\]\]
+\CLA[\NUM[10\]\UNT[%\] \TRM[Proxylane™\]: Supports skin’s \SUB[hyaluronic acid\] levels to help improve the appearance of skin \BEN[firmness\]\] 
+\CLA[\NUM[2.0\]\UNT[%\] \INC[Licorice Root Extract\] (\CMN[dipotassium glycyrrhizate\]) + \NUM[0.2\]\UNT[%\] \INC[Purple Rice Extract\]: These potent ingredients work together to help preserve \SUB[hyaluronic acid\] content in skin\] 
+\CLA[\NUM[1.3\]\UNT[%\] \SUB[Hyaluronic Acid\]: This powerful natural humectant provides long lasting \BEN[hydration\] to improve the look of skin \BEN[texture\]\] 
+\VIV|CLA[In a \DUR[12-week\] clincial study, H.A. Intensifier significantly improved the appearance of key aging indicators:\]
+\CLA[\NUM[23\]\UNT[%\] improvement in \BEN[plumpness\]
+\CLA[9\]\UNT[%\] decrease in \BEN[sagginess\]\]
+\CLA[\NUM[11\]\UNT[%\] improvement in \BEN[firmness\]\]
+\CLA[\NUM[13\]\UNT[%\] improvement in \BEN[elasticity\]\]
+\CLA[\NUM[18\]\UNT[%\] improvement in \BEN[texture\]\]\]
+\CLA[This brilliant bottle is pure powdered \SUB[vitamin C\]—which, added into your daily serum treatment, \BEN[brightens\] and \BEN[evens\], leaving the skin looking noticeably \BEN[healthy\], \BEN[glowy\], and \BEN[firm\]. Because \SUB[vitamin C\] degrades in \INC[water\], even preservative-packed formulas don’t stay effective for long; this brilliant supercharged powder, however, remains fully potent until you mix it with \INC[water\] or \PRD[moisturizer\] (it’s truly amazing combined with the Cellular Repair Serum, RENEW). It’s also fantastic for travel—but the real reason to use it is the (serious) results: \BEN[Healthier-looking\] skin that’s impossibly \BEN[glowy\]\].
+\CLA[A quick-absorbing, \SUB[collagen\]-enriched \PRD[emulsion\] that helps \BEN[firm\] and \BEN[fortify\] the appearance of skin under the \BOP[chin\] and \BOP[jawline\]\]
+\CLA[This silky, hydrating treatment is designed to protect against future damage while supporting healing of existing damage to the delicate skin on the neck. The elegant formula delivers \SUB[lactic acid\] to \MOA[renew\] the neck surface, while \SUB[ferulic acid\], \SUB[retinol\], \SUB[silk amino acids\], and Dr. Gross’s exclusive \TRM[ECG Complex™\] support natural \MOA[cellular repair\] to restore the skin’s foundation. Skin appears \BEN[smoother\], \BEN[suppler\], and \BEN[healthier\]\].
+\CLA[\SUB[Paraben\] Free\]
+\CLA[This product is cruelty-free\]
+\VIV|CLA[In an independent consumer study, after \DUR[28 days\] of use: \]
+\NUM[100\]\UNT[%\] of participants reported \BOP[neck\] looked \BEN[younger\] and \BEN[firmer\] 
+\NUM[100\]\UNT[%\] of participants reported an improvement in the appearance of \BEN[fine lines\] and \BEN[wrinkles\] on the \BOP[neck\] 
+\NUM[100\]\UNT[%\] of participants reported an improvement in skin \BEN[texture\] 
+\NUM[95\]\UNT[%\] of participants agreed this product helped reduce the appearance of \BEN[crepiness\]
+\CLA[\SUB[Trans-retinoic Acid Ester\]: Supports \BEN[healthy\] skin with the power of \SUB[retinoids\], but without the irritation of traditional retinol; encourages \MOA[exfoliation\] and \MOA[revitalization\] for the appearance of \BEN[smoother\], \BEN[younger\]-looking skin\].
+\CLA[\CMN[Blue Tansy\] and \REG[German\] \INC[Chamomile\]: Help to \MOA[calm\] and \MOA[soothe\] for a reduce the appearance of \BEN[redness\]\]. 
+\CLA[\CMN[Chia Seed Oil\]: This richest botanical source of \SUB[omega 3\] also provides \SUB[alpha-lipoic acid\]\].
+\CLA|VIV[After an independent consumer testing panel used Luna Sleeping Night Oil for \DUR[4 weeks\]:
+\NUM[100\]\UNT[%\] felt the product absorbed well into the skin
+\NUM[96\]\UNT[%\] of women felt their skin looked \BEN[brighter\] and more \BEN[radiant\] 
+\NUM[96\]\UNT[%\] of women felt their skin looked \BEN[healthier\] and \BEN[revitalized\]
+\NUM[92\]\UNT[%\] of women felt their \BEN[skin tone\] looked more even, \BEN[calmer\], \BEN[smoother\]
+\NUM[85\]\UNT[%\] felt their \BEN[fine lines\] and \BEN[wrinkles\] around the \BOP[forehead\] were visibly improved
+Clinically proven to improve \BEN[skin radiance\], \BEN[fine lines\], and \BEN[smoothness\] in \DUR[4 weeks\]\]
+\CLA[\SUB[Retinol\]: relaxes the appearance of \BEN[fine lines\] and \BEN[wrinkles\]\]
+\CLA[Patented Advanced \ING[Hydradill Complex: \BEN[Wrinkle\] relaxing \ING[PFC-Oxygen Carriers\], \INC[Hyluronic acid\], Botanical extracts: \BEN[smoother\], \BEN[hydrated\], and \BEN[healthier\] looking complexion\]
+\CLA[Use of \TRN[Sytenol A\] and \TRN[Revinage\]: Plant derived \SUB[retinol\] alternatives (Bio-Retinols)\]
+\CLA[Improves the appearance of skin \BEN[firmness\] and \BEN[elasticity\]\]
+\CLA[Accelerates dead surface \MOA[skin cell turnover\] to refine the appearance of skin \BEN[texture\]\]
+\CLA|VIV[Clinically Proven Results\]
+\CLA[After \NUM[1\] use: \NUM[100\]\UNT[%\] of women showed significant improvement in the appearance of skin \BEN[roughness\], \BEN[firmness\], and \BEN[moisturization\]\]
+\]

@@ -1,0 +1,42 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  
+//   .form-container > * {
+//     width: 100%;
+//   }
+
+.example-headers-align .mat-expansion-panel-header-title,
+.example-headers-align .mat-expansion-panel-header-description {
+  flex-basis: 0;
+}
+
+.example-headers-align .mat-expansion-panel-header-description {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.base-container{
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 50%; 
+}
+
+.phone{
+    width: 200px;
+}
+
+.pagetitle{
+    margin-bottom: 20px;
+}
+
+//   form {
+//     max-width: 350px;
+// 	margin: auto;
+// 	padding: 3em 3em 2em 0em;
+// 	background: #ffffff;
+// 	border: 1px solid #ebebeb;
+// 	box-shadow: rgba(0,0,0,0.14902) 0px 1px 1px 0px,rgba(0,0,0,0.09804) 0px 1px 2px 0px;
+// }

@@ -1,0 +1,37 @@
+<div class="mat-body-strong"> {{title}}</div>
+<div class="mat-subheading-1"> {{subtitle}}</div>
+<div cdkDropListOrientation="horizontal" class="example-list">
+  <div class="example-box" *ngFor="let col of requiredCols">{{col}}</div>
+</div>
+
+
+<div class="topmargin20" *ngIf="mappingrequired">
+  <div cdkDropList #inMapList="cdkDropList" cdkDropListOrientation="horizontal" class="example-list"
+    (cdkDropListDropped)="drop($event)" [cdkDropListConnectedTo]="[inFileList]" [cdkDropListData]="mappedCols">
+    <div class="example-box" *ngFor="let col of mappedCols" cdkDrag>{{col}}</div>
+  </div>
+
+  <div class="mat-body-strong"> We found the below columns in excel, please drag and drop at above empty space and align with above sequence.</div>
+
+  <div cdkDropList #inFileList="cdkDropList" cdkDropListOrientation="horizontal" class="example-list"
+    (cdkDropListDropped)="drop($event)" [cdkDropListConnectedTo]="[inMapList]" [cdkDropListData]="colsInExcel">
+    <div class="example-box" *ngFor="let col of colsInExcel" cdkDrag>{{col}}</div>
+  </div>
+
+</div>
+
+<div class="topmargin20">
+  <div>
+    <input id="input-file-id" type="file" (change)="handleFileInput($event.target.files)" />
+  </div>
+
+  <!-- <label for="input-file-id" class ="mat-raised-button mat-primary"> CHOOSE FILE </label> -->
+  <div *ngIf="fileToUpload && !fileUploadInProgress " class="topmargin20">
+    <button mat-raised-button color="primary" (click)="UploadFile()">Upload File</button>
+  </div>
+
+  <mat-spinner *ngIf="fileUploadInProgress" class="topmargin20"></mat-spinner>
+  
+  <div class="mat-title topmargin20 messagebox">
+    {{message}}
+  </div>

@@ -1,0 +1,104 @@
+\SKN|SDS[MATERIAL SAFETY DATA SHEET 
+\TRN[PRICKLY PEAR NATIVE ORGANIC OIL XNE114\]
+\CON[GREENTECH S . A . Biople Clermont - Limagne 63360 Saint Beauzire - FRANCE Tlphone : 33 4 73 33 99 00 : 33 4 73 33 91 32 Fax e - mail : greentech @ greentech . fr\]
+
+\HZI[HAZARDOUS IDENTIFICATION
+Hazard designation : No special dangers are known
+Special indications concerning the dangers for the human and environment:No special danger mentioned. Nevertheless, ensure that information featured in these safety guidelines are respected. Respect conditions of storage and use\]
+
+\COP[COMPOSITION COMPONENTS:
+Opuntia Ficus-Indica Seed Oil CAS: 90082-21-6 EINECS 290-109-1\]
+
+\FAM[FIRST AID  MEASURES
+Excessive inhalation : breath on fresh air. In case of sickness, seek medical advice.
+Skin  contact : wash  abundantly  with soap  and  water. Remove  contaminated  clothing. In  case  of  persistent  cutaneous reactions, seek medical advice.
+Eye contact :Rinse abundantly with water or an eyewash solution for at least 15 minutes holding the eyelids open and if irritation persists, seek medical advice.
+Ingestion : Rinse the mouth out with water. Do not induce vomiting, and if you feel unwell, seek medical advice.In general, in case of uncertainly or if symtoms are shown, always seek medical advice\]
+
+\FIR[MEASURES IN CASE OF FIRE
+Suitable extinguishing media :Carbon dioxide, water foam, dry powders. 
+Special risks :None
+Special  protective  equipment  :Put  on  a  mask  to  avoid  breathing  fumes  or  emitted  vapour  in  case  of  unsufficient ventilation. 
+Cool down the containers with pulverized water from a secure distance\]
+
+\SPL[MEASURES BY ACCIDENTAL SPILLAGE
+Individual precautions : isolate the zone. Do not inhale the vapours.  Use in a well-ventilated room. Wear gloves and safety goggles when handling leakages. Follow general hygiene procedure in case of accidental spillage.
+Enironmental precautions : Avoid all ground and surface water contamination. Control the product by covering with an inert absorbent substance. If the product contaminates into water, river or swearage systems, warns the local authorities according to regulation procedures.
+Cleaning procedures :Collect with absorbent materials.Clean the floor preferably with water and/or detergent\]
+
+\STR[HANDLING  AND  STORAGE
+Handling :Use in proper ventilated areas. 
+Storage  :It  is  recommended  to  store  the  product  in  original  sealed  and  full  containers  in  a  well-ventilated  area,  away from the light and from sources of heat. Storageat room temperature (22°C)\]
+
+\EXP[EXPOSURE CONTROLS/INDIVIDUAL PROTECTION 
+Exposition :Keep proper ventilation.
+Individual  protection  equipment : Avoid  prolonged  contact  with  skin  and  eyes.  In  order  to  prevent  from  possible projections, wear proper gloves and safety goggles.
+Hygiene measure :Remove all contaminated clothing. Wash your hands afterwards\]
+
+\PRO[PHYSICAL AND  CHEMICAL PROPERTIES
+Appearance Liquid, yellow to green
+Odour Characteristic
+pH Not determinated
+Boiling point Not determinated
+Melting point Not applicable
+Flash point Not determinated
+Ignition temperature Not determinated
+Auto-ignition temperature Not determinated
+Explosion limits Not determinated
+Vapour pressure Not determinated
+Density Not determinated
+Solubility in water (sol 10%) Insoluble
+Solubility in alcohol (sol 10%) Not determinated 
+Distribution coefficient (n-octanol / water) Not determinated
+Viscosity Not determinated
+Temperature of decomposition Not determinated\]
+
+\STB[STABILITY AND  REACTIVITY
+Conditions to avoid : /
+Material to avoid : Metallic packaging
+Hazardous decomposition products  :None
+Other data : The product do not decompose if used in according to the prescription\]
+
+\TOX[TOXICITY INFORMATION
+Acute Toxicity Not determinated
+Eye Irritation Not determinated
+Skin Irritation Not determinated
+Sensitivity Not determinated
+Phototoxicity Not determinated
+Mutagenic effect on the germinal cells Not determinated
+Carcinogenicity Not determinated
+Reproductive toxicity Not determinated
+Certain organs target toxicity (unique exposure) Not determinated
+Certain    organs    target    toxicity    (repeated exposure) Not determinated
+Breathing danger Not determinated\]
+
+\ECO[ECOLOGICAL INFORMATION
+This preparation has not been submitted to ecotoxicological tests. Within handling and proper uses, no ecological problem should appear on the environment\]
+
+\DIW[RECOMMENDED  DISPOSAL PROCEDURES
+According to community, national or local regulations in force\]
+
+\TRA[TRANSPORT INFORMATION
+Land transport ADR Not considered as dangerous 
+Maritime Transport IMDG Not considered as dangerous 
+Air transport IATA Not considered as dangerous\] 
+
+\RGL[REGULATORY INFORMATION
+Not classified as a hazardous product\]
+
+\MIN[OTHER INFORMATION
+This information is based on our present knowledge and is supplied for proper and safe handling of our product. The above mentioned data cannot be considered as a product specification\]\]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Annot.h</itemPath>
+      <itemPath>Array.h</itemPath>
+      <itemPath>BuiltinFont.h</itemPath>
+      <itemPath>BuiltinFontTables.h</itemPath>
+      <itemPath>CMap.h</itemPath>
+      <itemPath>CachedFile.h</itemPath>
+      <itemPath>CairoFontEngine.h</itemPath>
+      <itemPath>CairoOutputDev.h</itemPath>
+      <itemPath>CairoRescaleBox.h</itemPath>
+      <itemPath>Catalog.h</itemPath>
+      <itemPath>CharCodeToUnicode.h</itemPath>
+      <itemPath>CharTypes.h</itemPath>
+      <itemPath>CompactFontTables.h</itemPath>
+      <itemPath>CurlCachedFile.h</itemPath>
+      <itemPath>CurlPDFDocBuilder.h</itemPath>
+      <itemPath>DCTStream.h</itemPath>
+      <itemPath>DateInfo.h</itemPath>
+      <itemPath>Decrypt.h</itemPath>
+      <itemPath>Dict.h</itemPath>
+      <itemPath>Error.h</itemPath>
+      <itemPath>ErrorCodes.h</itemPath>
+      <itemPath>FileSpec.h</itemPath>
+      <itemPath>FlateEncoder.h</itemPath>
+      <itemPath>FlateStream.h</itemPath>
+      <itemPath>FontEncodingTables.h</itemPath>
+      <itemPath>FontInfo.h</itemPath>
+      <itemPath>Form.h</itemPath>
+      <itemPath>Function.h</itemPath>
+      <itemPath>Gfx.h</itemPath>
+      <itemPath>GfxFont.h</itemPath>
+      <itemPath>GfxState.h</itemPath>
+      <itemPath>GfxState_helpers.h</itemPath>
+      <itemPath>GlobalParams.h</itemPath>
+      <itemPath>Hints.h</itemPath>
+      <itemPath>JArithmeticDecoder.h</itemPath>
+      <itemPath>JBIG2Stream.h</itemPath>
+      <itemPath>JPEG2000Stream.h</itemPath>
+      <itemPath>JPXStream.h</itemPath>
+      <itemPath>Lexer.h</itemPath>
+      <itemPath>Linearization.h</itemPath>
+      <itemPath>Link.h</itemPath>
+      <itemPath>LocalPDFDocBuilder.h</itemPath>
+      <itemPath>MarkedContentOutputDev.h</itemPath>
+      <itemPath>Movie.h</itemPath>
+      <itemPath>NameToCharCode.h</itemPath>
+      <itemPath>NameToUnicodeTable.h</itemPath>
+      <itemPath>Object.h</itemPath>
+      <itemPath>OptionalContent.h</itemPath>
+      <itemPath>Outline.h</itemPath>
+      <itemPath>OutputDev.h</itemPath>
+      <itemPath>PDFDoc.h</itemPath>
+      <itemPath>PDFDocBuilder.h</itemPath>
+      <itemPath>PDFDocEncoding.h</itemPath>
+      <itemPath>PDFDocFactory.h</itemPath>
+      <itemPath>PSOutputDev.h</itemPath>
+      <itemPath>PSTokenizer.h</itemPath>
+      <itemPath>Page.h</itemPath>
+      <itemPath>PageLabelInfo.h</itemPath>
+      <itemPath>PageLabelInfo_p.h</itemPath>
+      <itemPath>PageTransition.h</itemPath>
+      <itemPath>Parser.h</itemPath>
+      <itemPath>PopplerCache.h</itemPath>
+      <itemPath>PreScanOutputDev.h</itemPath>
+      <itemPath>ProfileData.h</itemPath>
+      <itemPath>Rendition.h</itemPath>
+      <itemPath>SecurityHandler.h</itemPath>
+      <itemPath>SignatureHandler.h</itemPath>
+      <itemPath>SignatureInfo.h</itemPath>
+      <itemPath>Sound.h</itemPath>
+      <itemPath>SplashOutputDev.h</itemPath>
+      <itemPath>StdinCachedFile.h</itemPath>
+      <itemPath>StdinPDFDocBuilder.h</itemPath>
+      <itemPath>Stream-CCITT.h</itemPath>
+      <itemPath>Stream.h</itemPath>
+      <itemPath>StructElement.h</itemPath>
+      <itemPath>StructTreeRoot.h</itemPath>
+      <itemPath>TextOutputDev.h</itemPath>
+      <itemPath>UTF.h</itemPath>
+      <itemPath>UnicodeCClassTables.h</itemPath>
+      <itemPath>UnicodeCompTables.h</itemPath>
+      <itemPath>UnicodeDecompTables.h</itemPath>
+      <itemPath>UnicodeMap.h</itemPath>
+      <itemPath>UnicodeMapFuncs.h</itemPath>
+      <itemPath>UnicodeMapTables.h</itemPath>
+      <itemPath>UnicodeTypeTable.h</itemPath>
+      <itemPath>ViewerPreferences.h</itemPath>
+      <itemPath>XRef.h</itemPath>
+      <itemPath>XpdfPluginAPI.h</itemPath>
+      <itemPath>config.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Annot.cc</itemPath>
+      <itemPath>Array.cc</itemPath>
+      <itemPath>BuiltinFont.cc</itemPath>
+      <itemPath>BuiltinFontTables.cc</itemPath>
+      <itemPath>CMap.cc</itemPath>
+      <itemPath>CachedFile.cc</itemPath>
+      <itemPath>CairoFontEngine.cc</itemPath>
+      <itemPath>CairoOutputDev.cc</itemPath>
+      <itemPath>CairoRescaleBox.cc</itemPath>
+      <itemPath>Catalog.cc</itemPath>
+      <itemPath>CharCodeToUnicode.cc</itemPath>
+      <itemPath>CurlCachedFile.cc</itemPath>
+      <itemPath>CurlPDFDocBuilder.cc</itemPath>
+      <itemPath>DCTStream.cc</itemPath>
+      <itemPath>DateInfo.cc</itemPath>
+      <itemPath>Decrypt.cc</itemPath>
+      <itemPath>Dict.cc</itemPath>
+      <itemPath>Error.cc</itemPath>
+      <itemPath>FileSpec.cc</itemPath>
+      <itemPath>FlateEncoder.cc</itemPath>
+      <itemPath>FlateStream.cc</itemPath>
+      <itemPath>FontEncodingTables.cc</itemPath>
+      <itemPath>FontInfo.cc</itemPath>
+      <itemPath>Form.cc</itemPath>
+      <itemPath>Function.cc</itemPath>
+      <itemPath>Gfx.cc</itemPath>
+      <itemPath>GfxFont.cc</itemPath>
+      <itemPath>GfxState.cc</itemPath>
+      <itemPath>GlobalParams.cc</itemPath>
+      <itemPath>GlobalParamsWin.cc</itemPath>
+      <itemPath>Hints.cc</itemPath>
+      <itemPath>JArithmeticDecoder.cc</itemPath>
+      <itemPath>JBIG2Stream.cc</itemPath>
+      <itemPath>JPEG2000Stream.cc</itemPath>
+      <itemPath>JPXStream.cc</itemPath>
+      <itemPath>Lexer.cc</itemPath>
+      <itemPath>Linearization.cc</itemPath>
+      <itemPath>Link.cc</itemPath>
+      <itemPath>LocalPDFDocBuilder.cc</itemPath>
+      <itemPath>MarkedContentOutputDev.cc</itemPath>
+      <itemPath>Movie.cc</itemPath>
+      <itemPath>NameToCharCode.cc</itemPath>
+      <itemPath>Object.cc</itemPath>
+      <itemPath>OptionalContent.cc</itemPath>
+      <itemPath>Outline.cc</itemPath>
+      <itemPath>OutputDev.cc</itemPath>
+      <itemPath>PDFDoc.cc</itemPath>
+      <itemPath>PDFDocEncoding.cc</itemPath>
+      <itemPath>PDFDocFactory.cc</itemPath>
+      <itemPath>PSOutputDev.cc</itemPath>
+      <itemPath>PSTokenizer.cc</itemPath>
+      <itemPath>Page.cc</itemPath>
+      <itemPath>PageLabelInfo.cc</itemPath>
+      <itemPath>PageTransition.cc</itemPath>
+      <itemPath>Parser.cc</itemPath>
+      <itemPath>PopplerCache.cc</itemPath>
+      <itemPath>PreScanOutputDev.cc</itemPath>
+      <itemPath>ProfileData.cc</itemPath>
+      <itemPath>Rendition.cc</itemPath>
+      <itemPath>SecurityHandler.cc</itemPath>
+      <itemPath>SignatureHandler.cc</itemPath>
+      <itemPath>SignatureInfo.cc</itemPath>
+      <itemPath>Sound.cc</itemPath>
+      <itemPath>SplashOutputDev.cc</itemPath>
+      <itemPath>StdinCachedFile.cc</itemPath>
+      <itemPath>StdinPDFDocBuilder.cc</itemPath>
+      <itemPath>Stream.cc</itemPath>
+      <itemPath>StructElement.cc</itemPath>
+      <itemPath>StructTreeRoot.cc</itemPath>
+      <itemPath>TextOutputDev.cc</itemPath>
+      <itemPath>UTF.cc</itemPath>
+      <itemPath>UnicodeMap.cc</itemPath>
+      <itemPath>UnicodeTypeTable.cc</itemPath>
+      <itemPath>ViewerPreferences.cc</itemPath>
+      <itemPath>XRef.cc</itemPath>
+      <itemPath>XpdfPluginAPI.cc</itemPath>
+      <itemPath>common_types.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="2">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>11</standard>
+          <incDir>
+            <pElem>/usr/include/nspr</pElem>
+            <pElem>/usr/include/nss</pElem>
+            <pElem>/usr/include/freetype2</pElem>
+            <pElem>../openjpeg/openjpeg-v2.3.0-linux-x86_64/include/openjpeg-2.3</pElem>
+          </incDir>
+          <commandLine>-fPIC</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libpoppler.${CND_DLIB_EXT}</output>
+          <linkerAddLib>
+            <pElem>/usr/lib/x86_64-linux-gnu</pElem>
+            <pElem>../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}</pElem>
+            <pElem>../openjpeg/openjpeg-v2.3.0-linux-x86_64/lib/openjpeg-2.3</pElem>
+          </linkerAddLib>
+          <linkerDynSerch>
+            <pElem>./</pElem>
+          </linkerDynSerch>
+          <linkerDepDynSerchKind>0</linkerDepDynSerchKind>
+          <linkerCopySharedLibs>true</linkerCopySharedLibs>
+          <linkerLibItems>
+            <linkerLibLibItem>nss3</linkerLibLibItem>
+            <linkerLibLibItem>freetype</linkerLibLibItem>
+            <linkerLibLibItem>openjp2</linkerLibLibItem>
+            <linkerLibLibItem>fontconfig</linkerLibLibItem>
+            <linkerLibLibItem>lcms2</linkerLibLibItem>
+            <linkerLibLibItem>nssutil3</linkerLibLibItem>
+            <linkerLibLibItem>nss_files</linkerLibLibItem>
+            <linkerLibLibItem>nss_nis</linkerLibLibItem>
+            <linkerLibLibItem>jpeg</linkerLibLibItem>
+            <linkerLibLibItem>goo</linkerLibLibItem>
+            <linkerLibLibItem>fofi</linkerLibLibItem>
+            <linkerLibLibItem>splash</linkerLibLibItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <packaging>
+        <packType>Tar</packType>
+        <packFileList>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libgoo.so"
+                            from="${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libgoo.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libfofi.so"
+                            from="${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libfofi.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libsplash.so"
+                            from="${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libsplash.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/${OUTPUT_BASENAME}"
+                            from="${OUTPUT_PATH}"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libgoo.so"
+                            from="../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libgoo.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libfofi.so"
+                            from="../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libfofi.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libsplash.so"
+                            from="../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libsplash.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/${OUTPUT_BASENAME}"
+                            from="${OUTPUT_PATH}"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libgoo.so"
+                            from="../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libgoo.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libfofi.so"
+                            from="../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libfofi.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libsplash.so"
+                            from="../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libsplash.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/${OUTPUT_BASENAME}"
+                            from="${OUTPUT_PATH}"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libfofi.so"
+                            from="../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libfofi.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libsplash.so"
+                            from="../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libsplash.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/libgoo.so"
+                            from="../output/${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libgoo.so"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/${OUTPUT_BASENAME}"
+                            from="${OUTPUT_PATH}"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/${OUTPUT_BASENAME}"
+                            from="${OUTPUT_PATH}"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+          <packFileListElem type="File"
+                            to="${PACKAGE_TOP_DIR}lib/${OUTPUT_BASENAME}"
+                            from="${OUTPUT_PATH}"
+                            perm="644"
+                            owner="root"
+                            group="bin"/>
+        </packFileList>
+      </packaging>
+      <item path="Annot.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Annot.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Array.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Array.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="BuiltinFont.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="BuiltinFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="BuiltinFontTables.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="BuiltinFontTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CMap.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CachedFile.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CachedFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Catalog.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Catalog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CharCodeToUnicode.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CharCodeToUnicode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CharTypes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CompactFontTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DCTStream.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DCTStream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DateInfo.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DateInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Decrypt.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Decrypt.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Dict.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Dict.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Error.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Error.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ErrorCodes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FileSpec.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FileSpec.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FlateEncoder.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FlateEncoder.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FlateStream.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FlateStream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FontEncodingTables.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FontEncodingTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FontInfo.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FontInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Form.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Form.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Function.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Function.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gfx.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gfx.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GfxFont.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GfxFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GfxState.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GfxState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GfxState_helpers.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GlobalParams.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GlobalParams.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Hints.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Hints.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JArithmeticDecoder.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="JArithmeticDecoder.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JBIG2Stream.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="JBIG2Stream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JPEG2000Stream.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="JPEG2000Stream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Lexer.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Lexer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Linearization.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Linearization.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Link.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Link.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="LocalPDFDocBuilder.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LocalPDFDocBuilder.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MarkedContentOutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MarkedContentOutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Movie.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Movie.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NameToCharCode.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NameToCharCode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NameToUnicodeTable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Object.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="OptionalContent.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OptionalContent.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Outline.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Outline.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="OutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PDFDoc.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PDFDoc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PDFDocBuilder.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PDFDocEncoding.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PDFDocEncoding.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PDFDocFactory.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PDFDocFactory.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PSOutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PSOutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PSTokenizer.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PSTokenizer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Page.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Page.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PageLabelInfo.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PageLabelInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PageLabelInfo_p.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PageTransition.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PageTransition.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Parser.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Parser.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PopplerCache.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PopplerCache.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PreScanOutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PreScanOutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ProfileData.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ProfileData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Rendition.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Rendition.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SecurityHandler.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SecurityHandler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SignatureHandler.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SignatureHandler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SignatureInfo.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SignatureInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Sound.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Sound.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashOutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashOutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="StdinCachedFile.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="StdinCachedFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="StdinPDFDocBuilder.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="StdinPDFDocBuilder.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Stream-CCITT.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Stream.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Stream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="StructElement.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="StructElement.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="StructTreeRoot.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="StructTreeRoot.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TextOutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TextOutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UTF.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UTF.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeCClassTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeCompTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeDecompTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeMap.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UnicodeMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeMapFuncs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeMapTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeTypeTable.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UnicodeTypeTable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ViewerPreferences.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ViewerPreferences.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="XRef.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="XRef.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="XpdfPluginAPI.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="XpdfPluginAPI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="common_types.h" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="config.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="2">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Annot.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Annot.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Array.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Array.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="BuiltinFont.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="BuiltinFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="BuiltinFontTables.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="BuiltinFontTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CMap.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CachedFile.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CachedFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CairoFontEngine.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CairoFontEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CairoOutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CairoOutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CairoRescaleBox.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CairoRescaleBox.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Catalog.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Catalog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CharCodeToUnicode.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CharCodeToUnicode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CharTypes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CompactFontTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CurlCachedFile.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CurlCachedFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CurlPDFDocBuilder.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CurlPDFDocBuilder.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DCTStream.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DCTStream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DateInfo.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DateInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Decrypt.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Decrypt.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Dict.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Dict.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Error.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Error.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ErrorCodes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FileSpec.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FileSpec.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FlateEncoder.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FlateEncoder.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FlateStream.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FlateStream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FontEncodingTables.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FontEncodingTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FontInfo.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FontInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Form.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Form.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Function.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Function.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gfx.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gfx.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GfxFont.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GfxFont.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GfxState.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GfxState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GfxState_helpers.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GlobalParams.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GlobalParams.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GlobalParamsWin.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Hints.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Hints.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JArithmeticDecoder.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="JArithmeticDecoder.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JBIG2Stream.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="JBIG2Stream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JPEG2000Stream.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="JPEG2000Stream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="JPXStream.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="JPXStream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Lexer.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Lexer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Linearization.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Linearization.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Link.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Link.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="LocalPDFDocBuilder.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LocalPDFDocBuilder.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MarkedContentOutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MarkedContentOutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Movie.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Movie.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NameToCharCode.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NameToCharCode.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NameToUnicodeTable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Object.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="OptionalContent.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OptionalContent.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Outline.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Outline.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="OutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PDFDoc.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PDFDoc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PDFDocBuilder.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PDFDocEncoding.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PDFDocEncoding.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PDFDocFactory.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PDFDocFactory.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PSOutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PSOutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PSTokenizer.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PSTokenizer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Page.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Page.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PageLabelInfo.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PageLabelInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PageLabelInfo_p.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PageTransition.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PageTransition.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Parser.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Parser.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PopplerCache.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PopplerCache.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PreScanOutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PreScanOutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ProfileData.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ProfileData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Rendition.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Rendition.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SecurityHandler.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SecurityHandler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SignatureHandler.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SignatureHandler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SignatureInfo.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SignatureInfo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Sound.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Sound.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SplashOutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SplashOutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="StdinCachedFile.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="StdinCachedFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="StdinPDFDocBuilder.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="StdinPDFDocBuilder.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Stream-CCITT.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Stream.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Stream.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="StructElement.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="StructElement.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="StructTreeRoot.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="StructTreeRoot.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TextOutputDev.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TextOutputDev.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UTF.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UTF.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeCClassTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeCompTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeDecompTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeMap.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UnicodeMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeMapFuncs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeMapTables.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="UnicodeTypeTable.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UnicodeTypeTable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ViewerPreferences.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ViewerPreferences.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="XRef.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="XRef.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="XpdfPluginAPI.cc" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="XpdfPluginAPI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="common_types.h" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="config.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

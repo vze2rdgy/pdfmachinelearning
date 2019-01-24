@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="row">
+    <div class="title">
+      <h1 class="main-heading">{{ 'lynx.payments.upload.title' | translate }}</h1>
+      <!-- <span class="spacer"></span>
+      <mat-toolbar class="toobar">
+        <mat-checkbox class="right-margin" [checked]="activeOnly || async" (change)="activeOnlyValueChange($event)">
+            Active only</mat-checkbox>
+      </mat-toolbar> -->
+    </div>
+  </div>
+  <div class="row">
+    <app-fileupload filetype='3' title="Credit card Transaction" subtitle='Select the file with Credit card transactions. File must contain below columns'
+      [reqcols]="['tranid','date', 'amount', 'payee', 'status', 'authno', 'paymentcode']">
+    </app-fileupload>
+  </div>
+  <div class="row">
+    <app-fileupload filetype='4' title="Credit card Transaction" subtitle='Select the file with Check transactions. File must contain below columns'
+      [reqcols]="['tranid','date', 'amount', 'payee', 'status', 'authno', 'paymentcode']">
+    </app-fileupload>
+  </div>
+</div>

@@ -1,0 +1,200 @@
+export const GetStudentsJson = [
+    {
+        'dob': '2005-05-05 00:00:00',
+        'email': 'drtomabraham@aol.com',
+        'gradelevel': '7',
+        'locationid': 1,
+        'name': 'Marisa Ackattupathil',
+        'paymentcode': 'CD_02x',
+        'studentid': 'ST_ID_03',
+        'subjects': 'Math',
+        'totalfee': 100
+    },
+    {
+        'dob': '2010-03-04 00:00:00',
+        'email': 'poline22us@yahoo.com',
+        'gradelevel': '2',
+        'locationid': 1,
+        'name': 'Maya Acurol',
+        'paymentcode': 'CD_04',
+        'studentid': 'ST_ID_04',
+        'subjects': 'Math, Reading',
+        'totalfee': 200
+    },
+    {
+        'dob': '2005-10-13 00:00:00',
+        'email': 'janbogs7@yahoo.com',
+        'gradelevel': '6',
+        'locationid': 1,
+        'name': 'Jami Claire Adonay',
+        'paymentcode': 'CD_05',
+        'studentid': 'ST_ID_05',
+        'subjects': 'Math',
+        'totalfee': 100
+    },
+    {
+        'dob': '2005-11-06 00:00:00',
+        'email': 'sejalagashi@yahoo.com',
+        'gradelevel': '6',
+        'locationid': 1,
+        'name': 'Anshi Agashiwala',
+        'paymentcode': 'CD_06',
+        'studentid': 'ST_ID_06',
+        'subjects': 'Math, Reading',
+        'totalfee': 200
+    },
+    {
+        'dob': '2006-07-16 00:00:00',
+        'email': 'jessica.cedeno0807@gmail.com',
+        'gradelevel': '6',
+        'locationid': 1,
+        'name': 'Annalis Angulo',
+        'paymentcode': 'CD_14',
+        'studentid': 'ST_ID_14',
+        'subjects': null,
+        'totalfee': 0
+    },
+    {
+        'dob': '2008-11-04 00:00:00',
+        'email': 'saharkhaled2003@yahoo.com',
+        'gradelevel': '3',
+        'locationid': 1,
+        'name': 'Youssef Abdelkader',
+        'paymentcode': 'CD_01',
+        'studentid': 'ST_ID_01',
+        'subjects': 'Math, Reading',
+        'totalfee': 210
+    },
+    {
+        'dob': '2006-05-18 00:00:00',
+        'email': 'drtomabraham@aol.com',
+        'gradelevel': '6',
+        'locationid': 1,
+        'name': 'Arvin Ackattupathil',
+        'paymentcode': 'CD_02x',
+        'studentid': 'ST_ID_02',
+        'subjects': 'Math',
+        'totalfee': 110
+    },
+    {
+        'dob': '2008-09-26 00:00:00',
+        'email': 'ranancy2@gmail.com',
+        'gradelevel': '3',
+        'locationid': 1,
+        'name': 'Riancy Appiah',
+        'paymentcode': 'CD_15',
+        'studentid': 'ST_ID_15',
+        'subjects': null,
+        'totalfee': 0
+    },
+    {
+        'dob': '2011-12-20 00:00:00',
+        'email': 'jeanne_arcilla@yahoo.com',
+        'gradelevel': 'K',
+        'locationid': 1,
+        'name': 'Zachary Arcilla',
+        'paymentcode': 'CD_16',
+        'studentid': 'ST_ID_16',
+        'subjects': null,
+        'totalfee': 0
+    },
+    {
+        'dob': '2002-06-19 00:00:00',
+        'email': 'eloina.arias34@gmail.com',
+        'gradelevel': '10',
+        'locationid': 1,
+        'name': 'Jasmine Arias',
+        'paymentcode': 'CD_17',
+        'studentid': 'ST_ID_17',
+        'subjects': null,
+        'totalfee': 0
+    },
+    {
+        'dob': '2004-09-24 00:00:00',
+        'email': 'dandiney@gmail.com',
+        'gradelevel': '7',
+        'locationid': 1,
+        'name': 'Daniela Arredondo',
+        'paymentcode': 'CD_18',
+        'studentid': 'ST_ID_18',
+        'subjects': 'Reading',
+        'totalfee': 100
+    },
+    {
+        'dob': '2012-07-08 00:00:00',
+        'email': 'nadouda82@yahoo.com',
+        'gradelevel': 'K',
+        'locationid': 1,
+        'name': 'Lujain Alrawi',
+        'paymentcode': 'CD_11',
+        'studentid': 'ST_ID_11',
+        'subjects': null,
+        'totalfee': 0
+    },
+    {
+        'dob': '2010-07-08 00:00:00',
+        'email': 'luckyamin11samir@gmail.com',
+        'gradelevel': '2',
+        'locationid': 1,
+        'name': 'Lucky Amin',
+        'paymentcode': 'CD_12',
+        'studentid': 'ST_ID_12',
+        'subjects': null,
+        'totalfee': 0
+    },
+    {
+        'dob': '2011-07-27 00:00:00',
+        'email': 'hmoussa01@manhattan.edu',
+        'gradelevel': '1',
+        'locationid': 1,
+        'name': 'Sana Amin',
+        'paymentcode': 'CD_13',
+        'studentid': 'ST_ID_13',
+        'subjects': null,
+        'totalfee': 0
+    },
+    {
+        'dob': '2011-02-16 00:00:00',
+        'email': 'ouroutch@yahoo.com',
+        'gradelevel': '2',
+        'locationid': 1,
+        'name': 'Aydin Akdikmen',
+        'paymentcode': 'CD_07x',
+        'studentid': 'ST_ID_07',
+        'subjects': 'Math, Reading',
+        'totalfee': 200
+    },
+    {
+        'dob': '2009-01-06 00:00:00',
+        'email': 'ouroutch@yahoo.com',
+        'gradelevel': '4',
+        'locationid': 1,
+        'name': 'Selin Akdikmen',
+        'paymentcode': 'CD_07x',
+        'studentid': 'ST_ID_08',
+        'subjects': 'Math, Reading',
+        'totalfee': 200
+    },
+    {
+        'dob': '2013-05-07 00:00:00',
+        'email': 'sudha2903@gmail.com',
+        'gradelevel': 'PK1',
+        'locationid': 1,
+        'name': 'Charuhasini Ala',
+        'paymentcode': 'CD_09',
+        'studentid': 'ST_ID_09',
+        'subjects': 'Math, Reading',
+        'totalfee': 180
+    },
+    {
+        'dob': '2015-02-16 00:00:00',
+        'email': 'malbunia@gmail.com',
+        'gradelevel': 'PK2',
+        'locationid': 1,
+        'name': 'Mia Albunia',
+        'paymentcode': null,
+        'studentid': 'ST_ID_10',
+        'subjects': null,
+        'totalfee': 0
+    }
+]

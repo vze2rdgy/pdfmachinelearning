@@ -1,0 +1,138 @@
+Data
+
+
+ 
+
+\SKN[\CON[Parc d’activités « Les Plaines », 48230 Chanac, France 
+Tel (+33) 4 66 48 20 27 Fax (+33) 4 66 48 28 41 e-mail: Marketing@crodarom.fr\]  
+ 
+
+Herbal extracts Cosmetic ingredients 
+
+Fruitliquid Blueberry BG 10/06 
+\CAT[Art. No. D21982\] 
+ 
+ 
+INCI Name: \ING[\INC[Butylene Glycol\], \INC[Water\], \INC[Vaccinium Myrtillus Fruit Extract\]\] 
+ 
+INCI Name EU: \ING[\INC[Butylene Glycol\], \INC[Aqua\], \INC[Vaccinium Myrtillus Extract\]\] 
+ 
+
+Name of the plant: Latin: \SCN[Vaccinium myrtillus L.\] 
+ English: \CMN[Bilberry\], \CMN[European Blueberry\] 
+ French: \CMN[Myrtille\] 
+ German: \CMN[Blaubeere\], \CMN[Heidelbeere\] 
+ 
+Plant material: \BPA[Berries\] 
+ 
+Japanese name available: Yes 
+ 
+Description: 
+
+\STO[Blueberry is a shrubby perennial plant that grows in the 
+sandy areas of the northern US and in the woods and forest 
+meadows of Europe. The fruit is usually blue-black. 
+Traditionally, both the leaves and berries of this shrub has 
+been used as an astringent. A decoction of the berries was 
+employed for fevers. The juice of the berries was used as a 
+gargle and mouthwash for catarrh\]. 
+\CLA[Blueberry is an \MOA[anti-inflammatory\] herb: Cosmetically, 
+extracts are used in the treatment of skin bleaching, \BEN[irritated 
+and reddened skin care\], \BEN[anti-dandruff hair care\] and 
+cleansing preparations\]. 
+ 
+Properties of the plant: Relation to the actives of the extract: 
+
+\PRO[Antibacterial\], \PRO[astringent Tannins\] 
+\PRO[Anti-inflammatory\], \PRO[anti-photo-ageing\], \SUB[Ursolic Acid\] 
+\PRO[Mild keratolytic / bleaching\] \SUB[Fruit acids (\SUB[AHA\])\] 
+\PRO[Moisturising\], \PRO[soothing\], \PRO[conditioning\]  \SUB[Polysaccharides\] (\SUB[sucrose\]) 
+\PRO[Radical scavenging\], connective tissue \SUB[Bioflavonoids\] (\SUB[anthocyanosides\]) 
+and \BEN[capillaries strengthening\] 
+ 
+\PRD[Cosmetic applications: As an additive in gentle face tonics, soothing and 
+
+calming formulations for \BEN[sensitive skin\] with tendency 
+\CLA[to diffuse redness\], \LON[after shaves\], \LON[creams for young 
+skins\], \LON[gels and creams for heavy \BOP[legs\]\], hair care from 
+dull to greasy hair, \BEN[anti-ageing\] products, \LON[after-sun 
+preparations\], \LON[moisturizing products\] and \ROF[shower gels\]\]. 
+
+ 
+Recommended level of use:  \USL[2 - 7\]\UNT[%\] 
+ 
+\ACC[Content of active components:  Contents / \NUM[100\] \UNT[g\] extract 
+   plant material (total): approx.\NUM[10\]\UNT[%\] 
+   Spotcheck in \SUB[Ursolic acid\]: approx. \NUM[180\]\UNT[ppm\]\] 
+ 
+
+Page 1 of 2 
+
+
+
+ 
+
+\CON[Parc d’activités « Les Plaines », 48230 Chanac, France 
+Tel (+33) 4 66 48 20 27 Fax (+33) 4 66 48 28 41 e-mail: Marketing@crodarom.fr\]  
+ 
+
+Herbal extracts Cosmetic ingredients 
+
+\TRN[Fruitliquid Blueberry BG 10/06\] 
+\CAT[Art. No. D21982\] 
+ 
+ 
+
+\SPE[Tentative specifications: 
+
+For single values of specifications please see a R&D certificate of Analysis 
+
+ Minimum Value Maximum Value  
+\PRO[Specific Density (\NUM[20\]\UNT[°C\]\])   
+\PRO[Refraction Index (\NUM[20\]\UNT[°C\]\])   
+\PRO[pH Value (\NUM[20\]\UNT[°C\],\NUM[10\]\UNT[%\] in dist. \INC[Water\]\])  
+\PRO[Dry residue (\UNT[%\]\])  
+\PRO[\INC[Water\] Content (\UNT[%\]\])  
+\PRO[Odour characteristic\] 
+\PRO[Colour \CLR[red purple\] \CLR[pale purple\]\] 
+\PRO[Appearance clear liquid\] 
+\MCR[Total microbial count 
+
+\ORG[Bacteria\]  < \NUM[100\] \UNT[cfu / ml\] 
+\ORG[Moulds and yeasts\]  < \NUM[10\] \UNT[cfu / ml\]\]\] 
+
+ 
+ 
+
+\ECA[Vehicle: \INC[Butylene Glycol\], \INC[water\] 
+Preservation: None  
+Antioxidant: None\] 
+
+
+ 
+
+\STR[Storage: Between \NUM[15-25\]\UNT[°C\], 
+Shelf Life: When stored accordingly,  
+dark in closed containers. stable for \DUR[6 months\]\] 
+ 
+
+Special Note: The plants used for Fruitliquid Blueberry BG have not been organically 
+cultivated. 
+ 
+
+INCI Name: CAS No:   EINECS No: 
+\INC[Butylene Glycol\] \CAS[107-88-0\]   \EIN[203-529-7\] 
+\INC[Water\] \CAS[7732-18-5\]   \EIN[231-791-2\] 
+\INC[Vaccinium Myrtillus Fruit Extract\] \CAS[84082-34-8\]   \EIN[281-983-5\] 
+ 
+This data sheet replaces the earlier one dated 05/05, 09/05 
+ 
+\DIS[This extract is based on a product of nature which is subject to natural variations. However, this has no influence on 
+the safety of the product or its suitability for use. 
+Above mentioned specifications are based on our latest information. They do not release the buyer from performing a 
+quality check. No legally binding promise regarding the suitability of the product for a specific use may be derived. 
+Freedom from patent restrictions must not be assumed\]\]. 
+
+ 
+
+Page 2 of 2

@@ -1,0 +1,90 @@
+Unique Tags	Term
+ACC	Active Content
+ADP	Advantage Phrases
+BEN	Benefit
+BOA	Bioassay
+BOP	Body Part
+BOT	Botanical
+BPA	Botanical Part
+BBC	Building Blocks
+CAS	CAS #
+CAT	Catalogue #
+CAU	Caution
+CER	Certification
+COA	Certification of Analysis
+CHF	Chemical Formula
+CIT	Citation
+CLA	Claim
+CLR	Color
+CMN	Common Name
+COM	Company
+COI	Company Introduction
+COP	Composition
+CIN	Consumer Insight
+CON	Contact information
+CTR	Control (experimental)
+COS	Cosmetics
+DES	Description
+DIS	Disclaimer
+DUR	Duration
+EIN	EINEC Number (EC number)
+EQP	Equipment
+ECA	Extraction Carrier
+FOM	Form 
+FOR	Formulation
+HAR	Hair (Care)
+HTS	Harmonized Tariff System
+IMP	Impurity
+ING	Ingredient
+INC	INCI Name
+INS	Instrument
+VIT	In vitro
+VIV	In Vivo
+LAN	Language
+LON	Leave-On
+MAN	Manufacturing
+MEN	Men Care
+MCR	Microbial
+MOA	Mechanism of Action
+MSR	Measurement
+MLT	Molecular Target
+MOL	Molecular Weight
+NON	None
+NUM	Number
+ORG	Organism
+ORI	Origin, Source of
+PAC	Packaging
+PAT	Patent
+PRE	Preservation
+PRD	Product line (type)
+PRO	Property
+PRT	Protocol
+RAC	Race
+REG	Region (Geography)
+RGL	Regulatory
+ROF	Rinse-Off
+RTB	Resaon to Believe
+SAF	Safety
+SCN	Scientific Name
+SIG	Signature
+Sil	Simulation / In Silico
+STB	Stability / Compatibility
+SIT	Site 
+SKN	Skin (Care)
+SKC	Skin Condition
+SKT	Skin Type (Population type and Skin type)
+SPE	Specification
+STA	Statistics
+STO	Story
+STR	Storage
+STE	Stressor
+SUN	Sun Care
+SUB	Substance
+TEC	Technical Data Sheet
+TPO	Time Point
+Tox	Tox
+TRM	Trade Mark
+TRN	Trade Name
+UNT	Unit
+USF	Use Frequency
+USL	Use Level

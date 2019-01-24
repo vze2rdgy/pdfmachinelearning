@@ -1,0 +1,18 @@
+  <div class="templateframe">
+    <mat-toolbar class="subtoobar">   
+            <h2 class="lead"> {{selectedTemplate.templateName}} </h2>        
+            <button mat-stroked-button color="primary" (click)="onSend()" > Send email</button> 
+    </mat-toolbar>
+
+    <mat-selection-list #students>
+        <mat-list-option *ngFor="let student of data">
+          {{student.name}}
+        </mat-list-option>
+      </mat-selection-list>
+      
+      <p>
+        selected: {{students.selectedOptions.selected.length}}
+      </p>
+  </div>
+
+

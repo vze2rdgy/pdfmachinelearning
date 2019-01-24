@@ -1,0 +1,39 @@
+\SKN[\TRM[Sabiwhite®\] PDS
+
+
+\COM[SABINSA CORPORATION\]   
+\CON[Corporate Office Utah Office 
+
+* Pharmaceuticals * Phytochemicals 20 Lake Drive  750 So. Innovation Circle 
+* Fine Chemicals * Herbal Extracts East Windsor, NJ 08520 Payson, UT 84651 
+* Cosmeceuticals  * Specialty Chemicals Tel: (732) 777-1111 Tel: (801) 465-8400 
+                  Fax: (732) 777-1443    Fax: (801) 465-8600\] 
+
+ 
+\SPE[PRODUCT DATA SHEET
+
+                \TRM[SABIWHITE®\] (\INC|ACC[TETRAHYDROCURCUMIN\] \NUM[96\]\UNT[%\]\])  
+ 
+Product:    \INC[Tetrahydrocurumin\]  
+ 
+\PRO[Description:    \CLR[Off white to creamy white powder\]\] 
+ 
+\CAS[CAS #:     36062-04-1\] 
+ 
+\ACC[% of Active Ingredients: Contains a minimum of \NUM[96\]\UNT[%\] \INC[tetrahydrocurcumin\]\]  
+ 
+\PRO[Cosmeceutical Applications:  Antioxidant / Anti-aging 
+     Anti-inflammatory 
+     Skin lightening\] 
+      
+ 
+\USL[Suggested use level:   \NUM[0.2 to 2.0\]\UNT[% w/w\]  
+
+  
+\VIV[Clinical Studies:   Available\] 
+ 
+\TOX[Toxicity Data:    Available\] 
+ 
+U.S. Marketing History:  Yes 
+ 
+\PRO[Form of Supply:   Powder\]\]\]

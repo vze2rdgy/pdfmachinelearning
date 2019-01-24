@@ -1,0 +1,128 @@
+\SKN|SDS[MATERIAL SAFETY DATA SHEET
+\TRN[CLERILYS W\]
+
+\CON[Supplier
+GREENTECH S . A . Biople Clermont - Limagne 63360 Saint Beauzire - FRANCE Telephone : + 33 4 73 33 99 00 Fax : + 33 4 73 33 91 32 e-mail greentech @ greentech . fr\] 
+
+\HZI[HAZARDS IDENTIFICATION
+Classification of the substance or mixture:
+Classification according to the (EC) Regulation No 1272/2008: none
+Classification according to the (EC) Regulation No 67/548/CEE or the Regulation 1999/45/CE: none
+Specific indications concerning hazards for man and environment:
+The product is not to be labelled, according to the process of calculation of the « General Directive for EC preparations », in the
+last valid version.
+Classification system:
+The classification corresponds to current EEC lists and is filled by indications pulled by specialised publications and indications
+supplied by the company.
+Labels elements:
+Labelling according to the (EC) Regulation No 1272/2008
+· Hazard pictograms: none
+· Signal word: none
+· Hazard-determining components of labelling: none
+· Hazard statements: none
+· Labelling according to the EEC directives:
+The product is not identified according to the directives of the EC.
+2008/58/CE (30eme ATP); 2009/2/CE (31eme ATP); 2006/8/CE
+The usual measures of caution must be observed in case of manipulation of chemicals\]
+
+\COP[COMPOSITION 
+\INC[Water\] \CAS[7732-18-5\] \EINECS[231-791-2\] \ACC[50-100%\]
+\INC[Hibiscus Sabdariffa Flower Extract\] \CAS[84775-96-2\]  \EINECS[283-920-7\] \ACC[0-5%\]
+\INC[Morus Alba Bark Extract\] \CAS[94167-05-2\]  \EINECS[303-403-2\] \ACC[0-5%\]
+\INC[Cucumis Sativus Seed Extract\] \CAS[89998-01-6\] \EINECS[289-738-4\] \ACC[0-5%\]
+\INC[Citric Acid\] \CAS[77-92-9\] \EINECS[201-069-1\] \ACC[<1%\]
+\INC[Sodium Benzoate\] \CAS[532-32-1\]  \EINECS[208-534-8\]  \ACC[<1%\]
+\INC[Potassium Sorbate\]  \CAS[590-00-1\]   \EINECS[246-376-1\]  \ACC[<1%\]\]
+
+\FAM[FIRST AID MEASURES
+Excessive inhalation: Insure breath fresh air. In case of faintness, consult medical advice.
+Skin contact: wash abundantly with soap and water. Remove contaminated clothing. In case of persistent cutaneous
+reactions, consult medical advice.
+Eye contact: Rinse abundantly with water or an eyewash solution for at least 15 minutes holding the eyelids opened. If
+irritation persists, consult medical advice.
+Ingestion: Rinse out the mouth with water. Consult medical advice.
+In general, in case of uncertainty or if symptoms persist, always consult medical advice\]
+
+\FIR[FIREFIGHTING MEASURES
+Suitable extinguishing measures: Carbon dioxide, water foam, powders. Do not use a direct water jet.
+Specific risks: None
+Special protective equipment: Put on a mask to avoid breathing smokes or emitted vapour in case of insufficient ventilation\]
+
+\SPL[MEASURES BY ACCIDENTAL SPILLAGE / LEAKAGE
+Individual precautions: isolate the zone. Follow the usual rules of hygiene in case of spillage.
+Environmental precautions: Avoid all ground and surface water contamination. Control the product by covering with an inert absorbent substance.
+If the product contaminates water table, river or sewage system, warn local authorities according to regulation procedures.
+Cleaning procedures: Collect with absorbent materials (sand, celite, sawdust). Clean the floor preferably with water and/or detergent\]
+
+\STR[HANDLING AND STORAGE
+Handling: Use in proper ventilated areas.
+Storage: It is recommended to store the product in original sealed and full containers in a well-ventilated area, away
+from the light. Storage at room temperature (15-25°C)\]
+
+\EXP[EXPOSURE CONTROL / INDIVIDUAL PROTECTION
+Exposure: Keep proper ventilation.
+Individual protection equipment: Avoid extended contact with skin. In order to prevent from possible projections,
+wear proper gloves and safety goggles.
+Hygiene measure: Remove all contaminated clothing. Wash your hands afterwards\]
+
+\PRO[PHYSICAL AND CHEMICAL PROPERTIES
+Appearance Liquid, yellow to amber
+Odour Characteristic
+pH 2.6-4.6
+Boiling point Not determined
+Melting point Not applicable
+Flash point Not determined
+Flammability temperature Not determined
+Autoflammability temperature Not determined
+Explosion hazard Not determined
+Vapour pressure Not determined
+Relative density 0.980-1.020
+Solubility in water (10% in sol) Soluble
+Solubility in ethanol (10% in sol) Soluble with opalescence
+Distribution coefficient (n-octanol / water) Not determined
+Viscosity Not determined
+Decomposition temperature Not determined\]
+
+\STB[STABILITY AND REACTIVITY
+Conditions to avoid: /
+Material to avoid: Metallic packaging
+Hazardous decomposition products: Unknown
+Other data: The product does not decompose if used in according to the prescription\]
+
+\TOX[TOXICITY INFORMATION
+Acute Toxicity Not determined
+Ocular Irritation Slightly irritant
+Cutaneous Irritation Not irritant
+Sensitivity Not determined
+Phototoxicity Not determined
+Mutagenic effect on bacteria Not mutagenic, not promutagenic
+Carcinogenicity Not determined
+Reproductive toxicity Not determined
+Certain target organs toxicity (unique exposure) Not determined
+Certain target organs toxicity (repeated exposure) Not determined
+Breathing danger Not determined\]
+
+\ECO[ECOLOGICAL INFORMATION
+This product has not been submitted to ecotoxicological tests.
+Within handling and proper uses, no ecological problem should appear on the environment\]
+
+\DIW[RECOMMENDED DISPOSAL PROCEDURES
+Product: Must not be evacuated with household waste. Do not throw back in sewers, on the ground or in any area of
+water. Eliminate according to the current community, national or local regulations.
+Soiled packaging: Elimination according to the legal instructions\]
+
+\TRA[TRANSPORT INFORMATION
+Land transport ADR Not considered as hazardous
+Maritime Transport IMDG Not considered as hazardous
+Air transport IATA Not considered as hazardous\]
+
+\RGL[REGULATORY INFORMATION
+Not classified as hazardous product.
+Chemical safety assessment: a Chemical Safety Assessment has not been carried out\]
+
+\MIN[OTHER INFORMATION
+Planned use: the product in this form is not intended for a personal use as it is only for an industrial use.
+This information is based on our present knowledge. However, this shall not constitute a guarantee for any specific product feature
+and shall not establish a legally valid contractual relationship\]\]
+
+

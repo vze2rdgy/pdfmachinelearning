@@ -1,0 +1,24 @@
+Version n  1 ( 16 / 03 / 2018 )
+Doc09 - 01 Ind 2
+\SKN|RGL[FICHE REGLEMENTAIRE / REGULATORY DATA SHEET
+\TRN[ACNILYS\] ( 001215 ) ACNILYS ( 001215 )
+Nom INCI PCPC / PCPC INCI name
+Nom INCI EU / EU INCI name
+\ING[\INC[WATER\] ; \INC[PROPANEDIOL\] ; \INC[RHODOMYRTUS TOMENTOSA FRUIT EXTRACT\] AQUA ; PROPANEDIOL ; RHODOMYRTUS TOMENTOSA FRUIT EXTRACT
+
+\COP[COMPOSITION FINALE ET STATUT REACH / FINAL COMPOSITION AND REACH STATUS
+Nom INCI EU EU INCI name
+AQUA: 47 - 48 %
+PROPANEDIOL 47 - 48 %
+RHODOMYRTUS TOMENTOSA FRUIT EXTRACT 4 - 6 %
+N  CAS / EINECS 7732 - 18 - 5 / 231 - 791 - 2 504 - 63 - 2 / 207 - 997 - 3
+
+Statut REACH REACH status
+Eau exempte annexe IV / Water exempted annex IV Propanediol enregistr n  01 - 2119489383 - 28 / Propanediol registered n  01 - 2119489383 - 28 Exempt : < 1 tonne / an ( matire sche ) / Exempt : < 1 ton / year ( dry matter )\]
+\CER[CERTIFICATION / CERTIFICATION
+BPF
+Conforme / Compliant\]\]
+\CON[GREENTECH
+E - mail : greentech @ greentech . fr  web site : www . greentech . fr
+Biople Clermont - Limagne - 63360 Saint - Beauzire - France
+Tl : 04 73 33 99 00 - Fax : 04 73 33 91 32\]

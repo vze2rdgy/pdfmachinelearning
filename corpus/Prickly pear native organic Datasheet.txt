@@ -1,0 +1,18 @@
+\SKN|RGL[REGULATORY DATA SHEET
+\TRN[PRICKLY PEAR NATIVE ORGANIC OIL XNE114\]
+\CON[Biople Clermont - Limagne 63 360 Saint - Beauzire Tel : 33 04 73 33 99 00 Fax : 33 04 73 33 91 32
+e - mail : greentech @ greentech . fr\]
+\CER[Raw material certified by ECOCERT Greenlife according to the ECOCERT Standards for Natural and Organic Cosmetics available at http :// cosmetics . ecocert . com\]
+\ORI[100 % of the total of ingredients are of natural origin * 100 % of the total of ingredients proceed from Organic farming\]
+INC[Opuntia Ficus-Indica Seed Oil\] \CAS[CAS number 90082-21-6\] \EIN[EINECS number 290-109-1\]
+
+\COP[COMPOSITION 
+Opuntia Ficus - Indica Seed Oil 100 %\]
+
+\RGL[COSMETIC REGULATION
+REACH Not concerned quantity produced lower than 1 ton per year
+\REG[USA\] Approved for use in cosmetic with INCI CTFA name and CAS number
+\REG[Canada\] Approved for use in cosmetic with INCI CTFA name
+\REG[Japan\] Approved for use in cosmetic with INCI CTFA name
+\REG[Australia\] Approved for use in cosmetic with INCI CTFA name\]\]
+

@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="row">
+    <div class="title">
+      <h1 class="main-heading">{{ 'lynx.students.upload.title' | translate }}</h1>
+      <span class="spacer"></span>
+      <mat-toolbar class="toobar">
+        <!-- <mat-checkbox class="right-margin" [checked]="activeOnly || async" (change)="activeOnlyValueChange($event)">
+          Active only</mat-checkbox> -->
+      </mat-toolbar>
+    </div>
+
+  </div>
+  <div class="row">
+    <app-fileupload filetype='1' title="STUDENTS" subtitle='Please select the file with student details. File must contain below columns'
+      [reqcols]="['StudentID','LastName', 'FirstName', 'DateOfBirth', 'Email', 'PhoneNumber']">
+    </app-fileupload>
+  </div>
+  <div class="row">
+    <app-fileupload filetype='2' title="MONTHLY TUITIONS" subtitle='Select the monthly tuitions file. File must contain below columns'
+      [reqcols]="['StudentID', 'Last Name', 'First Name', 'DOB', 'Subject']">
+    </app-fileupload>
+  </div>
+</div>
