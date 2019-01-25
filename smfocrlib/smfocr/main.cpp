@@ -82,7 +82,7 @@ ThreadPool pool(5);
 #endif
 
 /*
- * A single threaded file watcher + pdf to text converter (optionally uses OCR)
+ * A single or multithreaded (enable WITHTREADPOOL) file watcher + pdf to text converter (optionally uses OCR)
  */
 int main(int argc, char** argv) 
 {
